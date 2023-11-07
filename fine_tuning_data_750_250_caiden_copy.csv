@@ -1,0 +1,2006 @@
+Question,Context,Answers,Answer_start,Answer_text
+What is the patient's name?," During the visit, I examined Mr. Don Hicks, who is 81 years old and presented with a fungal infection. He had dischromic patches, nodal skin eruptions, and skin rash as symptoms. Upon examination, I confirmed the diagnosis of fungal infection. I advised Mr. Hicks to take precautions such as bathing twice a day, using detol or neem in the bathing water, keeping the infected area dry, and using clean cloths. I did not prescribe any medication for him. ",Don Hicks,0,Don Hicks
+What is the patient's age?," During the visit, I examined Mr. Don Hicks, who is 81 years old and presented with a fungal infection. He had dischromic patches, nodal skin eruptions, and skin rash as symptoms. Upon examination, I confirmed the diagnosis of fungal infection. I advised Mr. Hicks to take precautions such as bathing twice a day, using detol or neem in the bathing water, keeping the infected area dry, and using clean cloths. I did not prescribe any medication for him. ",81,0,81
+What is the patient's condition?," During the visit, I examined Mr. Don Hicks, who is 81 years old and presented with a fungal infection. He had dischromic patches, nodal skin eruptions, and skin rash as symptoms. Upon examination, I confirmed the diagnosis of fungal infection. I advised Mr. Hicks to take precautions such as bathing twice a day, using detol or neem in the bathing water, keeping the infected area dry, and using clean cloths. I did not prescribe any medication for him. ",Fungal infection,0,Fungal infection
+What symptoms is the patient experiencing?," During the visit, I examined Mr. Don Hicks, who is 81 years old and presented with a fungal infection. He had dischromic patches, nodal skin eruptions, and skin rash as symptoms. Upon examination, I confirmed the diagnosis of fungal infection. I advised Mr. Hicks to take precautions such as bathing twice a day, using detol or neem in the bathing water, keeping the infected area dry, and using clean cloths. I did not prescribe any medication for him. ","Dischromic Patches, Nodal Eruprtions, Skin rash",0,"Dischromic Patches, Nodal Eruprtions, Skin rash"
+What precautions did the doctor advise?," During the visit, I examined Mr. Don Hicks, who is 81 years old and presented with a fungal infection. He had dischromic patches, nodal skin eruptions, and skin rash as symptoms. Upon examination, I confirmed the diagnosis of fungal infection. I advised Mr. Hicks to take precautions such as bathing twice a day, using detol or neem in the bathing water, keeping the infected area dry, and using clean cloths. I did not prescribe any medication for him. ","Bathing twice day,keep infected area dry",0,"Bathing twice day,keep infected area dry"
+What drug did the doctor prescribe?," During the visit, I examined Mr. Don Hicks, who is 81 years old and presented with a fungal infection. He had dischromic patches, nodal skin eruptions, and skin rash as symptoms. Upon examination, I confirmed the diagnosis of fungal infection. I advised Mr. Hicks to take precautions such as bathing twice a day, using detol or neem in the bathing water, keeping the infected area dry, and using clean cloths. I did not prescribe any medication for him. ",None,0,None
+What is the patient's name?," During the visit, I examined Tina Will, a 69-year-old patient who presented with symptoms of chest pain, vomiting, and breathlessness. After conducting a thorough examination, I determined that Tina was suffering from a heart attack. As a result, I advised her to seek immediate medical attention. Since there were no precautions that could be taken to prevent a heart attack, I did not prescribe any medication. Instead, I recommended that Tina follow up with her primary care physician for ongoing treatment and management of her condition. ",Tina will,0,Tina will
+What is the patient's age?," During the visit, I examined Tina Will, a 69-year-old patient who presented with symptoms of chest pain, vomiting, and breathlessness. After conducting a thorough examination, I determined that Tina was suffering from a heart attack. As a result, I advised her to seek immediate medical attention. Since there were no precautions that could be taken to prevent a heart attack, I did not prescribe any medication. Instead, I recommended that Tina follow up with her primary care physician for ongoing treatment and management of her condition. ",69,0,69
+What is the patient's condition?," During the visit, I examined Tina Will, a 69-year-old patient who presented with symptoms of chest pain, vomiting, and breathlessness. After conducting a thorough examination, I determined that Tina was suffering from a heart attack. As a result, I advised her to seek immediate medical attention. Since there were no precautions that could be taken to prevent a heart attack, I did not prescribe any medication. Instead, I recommended that Tina follow up with her primary care physician for ongoing treatment and management of her condition. ",Heart attack,0,Heart attack
+What symptoms is the patient experiencing?," During the visit, I examined Tina Will, a 69-year-old patient who presented with symptoms of chest pain, vomiting, and breathlessness. After conducting a thorough examination, I determined that Tina was suffering from a heart attack. As a result, I advised her to seek immediate medical attention. Since there were no precautions that could be taken to prevent a heart attack, I did not prescribe any medication. Instead, I recommended that Tina follow up with her primary care physician for ongoing treatment and management of her condition. ","Chest pain, vomiting, breathlessness",0,"Chest pain, vomiting, breathlessness"
+What precautions did the doctor advise?," During the visit, I examined Tina Will, a 69-year-old patient who presented with symptoms of chest pain, vomiting, and breathlessness. After conducting a thorough examination, I determined that Tina was suffering from a heart attack. As a result, I advised her to seek immediate medical attention. Since there were no precautions that could be taken to prevent a heart attack, I did not prescribe any medication. Instead, I recommended that Tina follow up with her primary care physician for ongoing treatment and management of her condition. ",None,0,None
+What drug did the doctor prescribe?," During the visit, I examined Tina Will, a 69-year-old patient who presented with symptoms of chest pain, vomiting, and breathlessness. After conducting a thorough examination, I determined that Tina was suffering from a heart attack. As a result, I advised her to seek immediate medical attention. Since there were no precautions that could be taken to prevent a heart attack, I did not prescribe any medication. Instead, I recommended that Tina follow up with her primary care physician for ongoing treatment and management of her condition. ",None,0,None
+What is the patient's name?," D: Good morning Tommie, how can I help you today?
+P: Good morning, Doctor. I've been experiencing some strange symptoms lately.
+D: Can you tell me what kind of symptoms you're experiencing?
+P: Sure, I've been feeling dizzy and unsteady on my feet, and I've also been having headaches.
+D: Interesting. Based on your age and the symptoms you're experiencing, it could be hypertension.
+P: Hypertension? What's that?
+D: Hypertension, also known as high blood pressure, is when the force of blood against your arteries is consistently too high.
+P: Oh, I see. And what can I do about it?
+D: To manage hypertension, I recommend that you practice meditation, take salt baths, reduce stress, and make sure you're getting proper sleep. In addition, it's important that you monitor your blood pressure regularly.
+P: Okay, I can do that. Do I need any medication?
+D: At this point, it doesn't seem like medication is necessary. But if your symptoms worsen or don't improve with the precautions I've suggested, we may need to reconsider.
+P: Alright, I'll give it a try and let you know how it goes. Thank you, Doctor.
+D: You're welcome, Tommie. Don't hesitate to contact me if you have any further questions or concerns. ",Tommie,0,Tommie
+What is the patient's age?," D: Good morning Tommie, how can I help you today?
+P: Good morning, Doctor. I've been experiencing some strange symptoms lately.
+D: Can you tell me what kind of symptoms you're experiencing?
+P: Sure, I've been feeling dizzy and unsteady on my feet, and I've also been having headaches.
+D: Interesting. Based on your age and the symptoms you're experiencing, it could be hypertension.
+P: Hypertension? What's that?
+D: Hypertension, also known as high blood pressure, is when the force of blood against your arteries is consistently too high.
+P: Oh, I see. And what can I do about it?
+D: To manage hypertension, I recommend that you practice meditation, take salt baths, reduce stress, and make sure you're getting proper sleep. In addition, it's important that you monitor your blood pressure regularly.
+P: Okay, I can do that. Do I need any medication?
+D: At this point, it doesn't seem like medication is necessary. But if your symptoms worsen or don't improve with the precautions I've suggested, we may need to reconsider.
+P: Alright, I'll give it a try and let you know how it goes. Thank you, Doctor.
+D: You're welcome, Tommie. Don't hesitate to contact me if you have any further questions or concerns. ",None,0,None
+What is the patient's condition?," D: Good morning Tommie, how can I help you today?
+P: Good morning, Doctor. I've been experiencing some strange symptoms lately.
+D: Can you tell me what kind of symptoms you're experiencing?
+P: Sure, I've been feeling dizzy and unsteady on my feet, and I've also been having headaches.
+D: Interesting. Based on your age and the symptoms you're experiencing, it could be hypertension.
+P: Hypertension? What's that?
+D: Hypertension, also known as high blood pressure, is when the force of blood against your arteries is consistently too high.
+P: Oh, I see. And what can I do about it?
+D: To manage hypertension, I recommend that you practice meditation, take salt baths, reduce stress, and make sure you're getting proper sleep. In addition, it's important that you monitor your blood pressure regularly.
+P: Okay, I can do that. Do I need any medication?
+D: At this point, it doesn't seem like medication is necessary. But if your symptoms worsen or don't improve with the precautions I've suggested, we may need to reconsider.
+P: Alright, I'll give it a try and let you know how it goes. Thank you, Doctor.
+D: You're welcome, Tommie. Don't hesitate to contact me if you have any further questions or concerns. ",Hypertension,0,Hypertension
+What symptoms is the patient experiencing?," D: Good morning Tommie, how can I help you today?
+P: Good morning, Doctor. I've been experiencing some strange symptoms lately.
+D: Can you tell me what kind of symptoms you're experiencing?
+P: Sure, I've been feeling dizzy and unsteady on my feet, and I've also been having headaches.
+D: Interesting. Based on your age and the symptoms you're experiencing, it could be hypertension.
+P: Hypertension? What's that?
+D: Hypertension, also known as high blood pressure, is when the force of blood against your arteries is consistently too high.
+P: Oh, I see. And what can I do about it?
+D: To manage hypertension, I recommend that you practice meditation, take salt baths, reduce stress, and make sure you're getting proper sleep. In addition, it's important that you monitor your blood pressure regularly.
+P: Okay, I can do that. Do I need any medication?
+D: At this point, it doesn't seem like medication is necessary. But if your symptoms worsen or don't improve with the precautions I've suggested, we may need to reconsider.
+P: Alright, I'll give it a try and let you know how it goes. Thank you, Doctor.
+D: You're welcome, Tommie. Don't hesitate to contact me if you have any further questions or concerns. ","Dizzy, unsteady on feet, headaches",0,"Dizzy, unsteady on feet, headaches"
+What precautions did the doctor advise?," D: Good morning Tommie, how can I help you today?
+P: Good morning, Doctor. I've been experiencing some strange symptoms lately.
+D: Can you tell me what kind of symptoms you're experiencing?
+P: Sure, I've been feeling dizzy and unsteady on my feet, and I've also been having headaches.
+D: Interesting. Based on your age and the symptoms you're experiencing, it could be hypertension.
+P: Hypertension? What's that?
+D: Hypertension, also known as high blood pressure, is when the force of blood against your arteries is consistently too high.
+P: Oh, I see. And what can I do about it?
+D: To manage hypertension, I recommend that you practice meditation, take salt baths, reduce stress, and make sure you're getting proper sleep. In addition, it's important that you monitor your blood pressure regularly.
+P: Okay, I can do that. Do I need any medication?
+D: At this point, it doesn't seem like medication is necessary. But if your symptoms worsen or don't improve with the precautions I've suggested, we may need to reconsider.
+P: Alright, I'll give it a try and let you know how it goes. Thank you, Doctor.
+D: You're welcome, Tommie. Don't hesitate to contact me if you have any further questions or concerns. ","Salt baths, practicing meditation, reduce stress, sleep",0,"Salt baths, practicing meditation, reduce stress, sleep"
+What drug did the doctor prescribe?," D: Good morning Tommie, how can I help you today?
+P: Good morning, Doctor. I've been experiencing some strange symptoms lately.
+D: Can you tell me what kind of symptoms you're experiencing?
+P: Sure, I've been feeling dizzy and unsteady on my feet, and I've also been having headaches.
+D: Interesting. Based on your age and the symptoms you're experiencing, it could be hypertension.
+P: Hypertension? What's that?
+D: Hypertension, also known as high blood pressure, is when the force of blood against your arteries is consistently too high.
+P: Oh, I see. And what can I do about it?
+D: To manage hypertension, I recommend that you practice meditation, take salt baths, reduce stress, and make sure you're getting proper sleep. In addition, it's important that you monitor your blood pressure regularly.
+P: Okay, I can do that. Do I need any medication?
+D: At this point, it doesn't seem like medication is necessary. But if your symptoms worsen or don't improve with the precautions I've suggested, we may need to reconsider.
+P: Alright, I'll give it a try and let you know how it goes. Thank you, Doctor.
+D: You're welcome, Tommie. Don't hesitate to contact me if you have any further questions or concerns. ",None,0,None
+What is the patient's name?," D: Good morning, Chris. I understand you've been experiencing some health issues lately. Can you tell me about your symptoms?
+
+P: Yes, Doctor. I've been losing weight, have a lot of abdominal pain, and my skin has turned yellow.
+
+D: I see. Based on your symptoms, I believe you have jaundice. 
+
+P: What causes jaundice, Doctor?
+
+D: Jaundice can be caused by various reasons such as liver problems, bile duct issues, or blood disorders. In your case, I think it's due to liver problems.
+
+P: How can I treat jaundice, Doctor?
+
+D: To treat jaundice, you should drink plenty of water, consume milk thistle, eat fruits and high fiberous food, and take medication if prescribed. In your case, I don't think medication is necessary, and these lifestyle changes should help.
+
+P: Can you explain what milk thistle is, Doctor?
+
+D: Sure, milk thistle is a herb that helps improve liver function. It contains a compound called silymarin, which has been shown to support liver health.
+
+P: Thank you, Doctor. I'll try to follow these precautions and see if my symptoms improve.
+
+D: That's great, Chris. Remember to come back for a follow-up appointment if your symptoms don't improve or worsen. Have a great day! ",Chris,0,Chris
+What is the patient's age?," D: Good morning, Chris. I understand you've been experiencing some health issues lately. Can you tell me about your symptoms?
+
+P: Yes, Doctor. I've been losing weight, have a lot of abdominal pain, and my skin has turned yellow.
+
+D: I see. Based on your symptoms, I believe you have jaundice. 
+
+P: What causes jaundice, Doctor?
+
+D: Jaundice can be caused by various reasons such as liver problems, bile duct issues, or blood disorders. In your case, I think it's due to liver problems.
+
+P: How can I treat jaundice, Doctor?
+
+D: To treat jaundice, you should drink plenty of water, consume milk thistle, eat fruits and high fiberous food, and take medication if prescribed. In your case, I don't think medication is necessary, and these lifestyle changes should help.
+
+P: Can you explain what milk thistle is, Doctor?
+
+D: Sure, milk thistle is a herb that helps improve liver function. It contains a compound called silymarin, which has been shown to support liver health.
+
+P: Thank you, Doctor. I'll try to follow these precautions and see if my symptoms improve.
+
+D: That's great, Chris. Remember to come back for a follow-up appointment if your symptoms don't improve or worsen. Have a great day! ",None,0,None
+What is the patient's condition?," D: Good morning, Chris. I understand you've been experiencing some health issues lately. Can you tell me about your symptoms?
+
+P: Yes, Doctor. I've been losing weight, have a lot of abdominal pain, and my skin has turned yellow.
+
+D: I see. Based on your symptoms, I believe you have jaundice. 
+
+P: What causes jaundice, Doctor?
+
+D: Jaundice can be caused by various reasons such as liver problems, bile duct issues, or blood disorders. In your case, I think it's due to liver problems.
+
+P: How can I treat jaundice, Doctor?
+
+D: To treat jaundice, you should drink plenty of water, consume milk thistle, eat fruits and high fiberous food, and take medication if prescribed. In your case, I don't think medication is necessary, and these lifestyle changes should help.
+
+P: Can you explain what milk thistle is, Doctor?
+
+D: Sure, milk thistle is a herb that helps improve liver function. It contains a compound called silymarin, which has been shown to support liver health.
+
+P: Thank you, Doctor. I'll try to follow these precautions and see if my symptoms improve.
+
+D: That's great, Chris. Remember to come back for a follow-up appointment if your symptoms don't improve or worsen. Have a great day! ",Jaundice,0,Jaundice
+What symptoms is the patient experiencing?," D: Good morning, Chris. I understand you've been experiencing some health issues lately. Can you tell me about your symptoms?
+
+P: Yes, Doctor. I've been losing weight, have a lot of abdominal pain, and my skin has turned yellow.
+
+D: I see. Based on your symptoms, I believe you have jaundice. 
+
+P: What causes jaundice, Doctor?
+
+D: Jaundice can be caused by various reasons such as liver problems, bile duct issues, or blood disorders. In your case, I think it's due to liver problems.
+
+P: How can I treat jaundice, Doctor?
+
+D: To treat jaundice, you should drink plenty of water, consume milk thistle, eat fruits and high fiberous food, and take medication if prescribed. In your case, I don't think medication is necessary, and these lifestyle changes should help.
+
+P: Can you explain what milk thistle is, Doctor?
+
+D: Sure, milk thistle is a herb that helps improve liver function. It contains a compound called silymarin, which has been shown to support liver health.
+
+P: Thank you, Doctor. I'll try to follow these precautions and see if my symptoms improve.
+
+D: That's great, Chris. Remember to come back for a follow-up appointment if your symptoms don't improve or worsen. Have a great day! ","weight loss, abdominal pain, yellow skin",0,"weight loss, abdominal pain, yellow skin"
+What precautions did the doctor advise?," D: Good morning, Chris. I understand you've been experiencing some health issues lately. Can you tell me about your symptoms?
+
+P: Yes, Doctor. I've been losing weight, have a lot of abdominal pain, and my skin has turned yellow.
+
+D: I see. Based on your symptoms, I believe you have jaundice. 
+
+P: What causes jaundice, Doctor?
+
+D: Jaundice can be caused by various reasons such as liver problems, bile duct issues, or blood disorders. In your case, I think it's due to liver problems.
+
+P: How can I treat jaundice, Doctor?
+
+D: To treat jaundice, you should drink plenty of water, consume milk thistle, eat fruits and high fiberous food, and take medication if prescribed. In your case, I don't think medication is necessary, and these lifestyle changes should help.
+
+P: Can you explain what milk thistle is, Doctor?
+
+D: Sure, milk thistle is a herb that helps improve liver function. It contains a compound called silymarin, which has been shown to support liver health.
+
+P: Thank you, Doctor. I'll try to follow these precautions and see if my symptoms improve.
+
+D: That's great, Chris. Remember to come back for a follow-up appointment if your symptoms don't improve or worsen. Have a great day! ",make lifestyle changes,0,make lifestyle changes
+What drug did the doctor prescribe?," D: Good morning, Chris. I understand you've been experiencing some health issues lately. Can you tell me about your symptoms?
+
+P: Yes, Doctor. I've been losing weight, have a lot of abdominal pain, and my skin has turned yellow.
+
+D: I see. Based on your symptoms, I believe you have jaundice. 
+
+P: What causes jaundice, Doctor?
+
+D: Jaundice can be caused by various reasons such as liver problems, bile duct issues, or blood disorders. In your case, I think it's due to liver problems.
+
+P: How can I treat jaundice, Doctor?
+
+D: To treat jaundice, you should drink plenty of water, consume milk thistle, eat fruits and high fiberous food, and take medication if prescribed. In your case, I don't think medication is necessary, and these lifestyle changes should help.
+
+P: Can you explain what milk thistle is, Doctor?
+
+D: Sure, milk thistle is a herb that helps improve liver function. It contains a compound called silymarin, which has been shown to support liver health.
+
+P: Thank you, Doctor. I'll try to follow these precautions and see if my symptoms improve.
+
+D: That's great, Chris. Remember to come back for a follow-up appointment if your symptoms don't improve or worsen. Have a great day! ",None,0,None
+What is the patient's name?," D: Hi Ernest, I understand you're here for a check-up. Can you please tell me what symptoms you've been experiencing?
+P: Hi doc, I've been having bladder discomfort, a continuous feel of urine, and my urine smells really bad.
+D: Thank you for sharing that with me, Ernest. Based on your symptoms, I believe you have a urinary tract infection (UTI).
+P: Oh, is that what it is? I've never had one before.
+D: Yes, it's quite common. To help manage your symptoms, I recommend that you drink plenty of water, increase your vitamin C intake, drink cranberry juice, and take probiotics.
+P: Alright, I'll try those. And should I be taking any medication?
+D: At this point, medication isn't necessary. But make sure to come back if your symptoms worsen or if they don't improve within a week.
+P: Okay, I'll do that. Thank you so much, doctor.
+D: You're welcome, Ernest. Remember to follow up with me if you have any concerns. ",Ernest,0,Ernest
+What is the patient's age?," D: Hi Ernest, I understand you're here for a check-up. Can you please tell me what symptoms you've been experiencing?
+P: Hi doc, I've been having bladder discomfort, a continuous feel of urine, and my urine smells really bad.
+D: Thank you for sharing that with me, Ernest. Based on your symptoms, I believe you have a urinary tract infection (UTI).
+P: Oh, is that what it is? I've never had one before.
+D: Yes, it's quite common. To help manage your symptoms, I recommend that you drink plenty of water, increase your vitamin C intake, drink cranberry juice, and take probiotics.
+P: Alright, I'll try those. And should I be taking any medication?
+D: At this point, medication isn't necessary. But make sure to come back if your symptoms worsen or if they don't improve within a week.
+P: Okay, I'll do that. Thank you so much, doctor.
+D: You're welcome, Ernest. Remember to follow up with me if you have any concerns. ",None,0,None
+What is the patient's condition?," D: Hi Ernest, I understand you're here for a check-up. Can you please tell me what symptoms you've been experiencing?
+P: Hi doc, I've been having bladder discomfort, a continuous feel of urine, and my urine smells really bad.
+D: Thank you for sharing that with me, Ernest. Based on your symptoms, I believe you have a urinary tract infection (UTI).
+P: Oh, is that what it is? I've never had one before.
+D: Yes, it's quite common. To help manage your symptoms, I recommend that you drink plenty of water, increase your vitamin C intake, drink cranberry juice, and take probiotics.
+P: Alright, I'll try those. And should I be taking any medication?
+D: At this point, medication isn't necessary. But make sure to come back if your symptoms worsen or if they don't improve within a week.
+P: Okay, I'll do that. Thank you so much, doctor.
+D: You're welcome, Ernest. Remember to follow up with me if you have any concerns. ",UTI,0,UTI
+What symptoms is the patient experiencing?," D: Hi Ernest, I understand you're here for a check-up. Can you please tell me what symptoms you've been experiencing?
+P: Hi doc, I've been having bladder discomfort, a continuous feel of urine, and my urine smells really bad.
+D: Thank you for sharing that with me, Ernest. Based on your symptoms, I believe you have a urinary tract infection (UTI).
+P: Oh, is that what it is? I've never had one before.
+D: Yes, it's quite common. To help manage your symptoms, I recommend that you drink plenty of water, increase your vitamin C intake, drink cranberry juice, and take probiotics.
+P: Alright, I'll try those. And should I be taking any medication?
+D: At this point, medication isn't necessary. But make sure to come back if your symptoms worsen or if they don't improve within a week.
+P: Okay, I'll do that. Thank you so much, doctor.
+D: You're welcome, Ernest. Remember to follow up with me if you have any concerns. ","Bladder discomfort, continuous feel to urinate, urine smell",0,"Bladder discomfort, continuous feel to urinate, urine smell"
+What precautions did the doctor advise?," D: Hi Ernest, I understand you're here for a check-up. Can you please tell me what symptoms you've been experiencing?
+P: Hi doc, I've been having bladder discomfort, a continuous feel of urine, and my urine smells really bad.
+D: Thank you for sharing that with me, Ernest. Based on your symptoms, I believe you have a urinary tract infection (UTI).
+P: Oh, is that what it is? I've never had one before.
+D: Yes, it's quite common. To help manage your symptoms, I recommend that you drink plenty of water, increase your vitamin C intake, drink cranberry juice, and take probiotics.
+P: Alright, I'll try those. And should I be taking any medication?
+D: At this point, medication isn't necessary. But make sure to come back if your symptoms worsen or if they don't improve within a week.
+P: Okay, I'll do that. Thank you so much, doctor.
+D: You're welcome, Ernest. Remember to follow up with me if you have any concerns. ","Drink water, take vitamin C, drink cranberry juice, take probiotics",0,"Drink water, take vitamin C, drink cranberry juice, take probiotics"
+What drug did the doctor prescribe?," D: Hi Ernest, I understand you're here for a check-up. Can you please tell me what symptoms you've been experiencing?
+P: Hi doc, I've been having bladder discomfort, a continuous feel of urine, and my urine smells really bad.
+D: Thank you for sharing that with me, Ernest. Based on your symptoms, I believe you have a urinary tract infection (UTI).
+P: Oh, is that what it is? I've never had one before.
+D: Yes, it's quite common. To help manage your symptoms, I recommend that you drink plenty of water, increase your vitamin C intake, drink cranberry juice, and take probiotics.
+P: Alright, I'll try those. And should I be taking any medication?
+D: At this point, medication isn't necessary. But make sure to come back if your symptoms worsen or if they don't improve within a week.
+P: Okay, I'll do that. Thank you so much, doctor.
+D: You're welcome, Ernest. Remember to follow up with me if you have any concerns. ",None,0,None
+What is the patient's name?," During the visit, I assessed Carlos Murrieta, a 75-year-old patient who presented with symptoms of obesity, restlessness, and lethargy. After a thorough physical examination, I reviewed his medical history and discussed his lifestyle and diet with him. Upon further investigation, it was determined that Mr. Murrieta had diabetes. 
+
+To help manage his diabetes, I advised Mr. Murrieta to take precautions such as following a balanced diet, exercising regularly, and scheduling follow-up appointments for ongoing monitoring. I also provided him with educational resources and discussed the importance of regular blood glucose monitoring. No medication was prescribed at this time. I emphasized the importance of lifestyle modifications to manage his diabetes and improve his overall health. I also encouraged him to quit smoking, if applicable, and to limit his alcohol consumption. I provided Mr. Murrieta with a list of healthy food choices and recommended that he consult with a nutritionist to create a meal plan that best suits his needs. ",Carlos Murrieta,0,Carlos Murrieta
+What is the patient's age?," During the visit, I assessed Carlos Murrieta, a 75-year-old patient who presented with symptoms of obesity, restlessness, and lethargy. After a thorough physical examination, I reviewed his medical history and discussed his lifestyle and diet with him. Upon further investigation, it was determined that Mr. Murrieta had diabetes. 
+
+To help manage his diabetes, I advised Mr. Murrieta to take precautions such as following a balanced diet, exercising regularly, and scheduling follow-up appointments for ongoing monitoring. I also provided him with educational resources and discussed the importance of regular blood glucose monitoring. No medication was prescribed at this time. I emphasized the importance of lifestyle modifications to manage his diabetes and improve his overall health. I also encouraged him to quit smoking, if applicable, and to limit his alcohol consumption. I provided Mr. Murrieta with a list of healthy food choices and recommended that he consult with a nutritionist to create a meal plan that best suits his needs. ",75,0,75
+What is the patient's condition?," During the visit, I assessed Carlos Murrieta, a 75-year-old patient who presented with symptoms of obesity, restlessness, and lethargy. After a thorough physical examination, I reviewed his medical history and discussed his lifestyle and diet with him. Upon further investigation, it was determined that Mr. Murrieta had diabetes. 
+
+To help manage his diabetes, I advised Mr. Murrieta to take precautions such as following a balanced diet, exercising regularly, and scheduling follow-up appointments for ongoing monitoring. I also provided him with educational resources and discussed the importance of regular blood glucose monitoring. No medication was prescribed at this time. I emphasized the importance of lifestyle modifications to manage his diabetes and improve his overall health. I also encouraged him to quit smoking, if applicable, and to limit his alcohol consumption. I provided Mr. Murrieta with a list of healthy food choices and recommended that he consult with a nutritionist to create a meal plan that best suits his needs. ",Diabetes,0,Diabetes
+What symptoms is the patient experiencing?," During the visit, I assessed Carlos Murrieta, a 75-year-old patient who presented with symptoms of obesity, restlessness, and lethargy. After a thorough physical examination, I reviewed his medical history and discussed his lifestyle and diet with him. Upon further investigation, it was determined that Mr. Murrieta had diabetes. 
+
+To help manage his diabetes, I advised Mr. Murrieta to take precautions such as following a balanced diet, exercising regularly, and scheduling follow-up appointments for ongoing monitoring. I also provided him with educational resources and discussed the importance of regular blood glucose monitoring. No medication was prescribed at this time. I emphasized the importance of lifestyle modifications to manage his diabetes and improve his overall health. I also encouraged him to quit smoking, if applicable, and to limit his alcohol consumption. I provided Mr. Murrieta with a list of healthy food choices and recommended that he consult with a nutritionist to create a meal plan that best suits his needs. ","Obesity, restlessness, lethargy",0,"Obesity, restlessness, lethargy"
+What precautions did the doctor advise?," During the visit, I assessed Carlos Murrieta, a 75-year-old patient who presented with symptoms of obesity, restlessness, and lethargy. After a thorough physical examination, I reviewed his medical history and discussed his lifestyle and diet with him. Upon further investigation, it was determined that Mr. Murrieta had diabetes. 
+
+To help manage his diabetes, I advised Mr. Murrieta to take precautions such as following a balanced diet, exercising regularly, and scheduling follow-up appointments for ongoing monitoring. I also provided him with educational resources and discussed the importance of regular blood glucose monitoring. No medication was prescribed at this time. I emphasized the importance of lifestyle modifications to manage his diabetes and improve his overall health. I also encouraged him to quit smoking, if applicable, and to limit his alcohol consumption. I provided Mr. Murrieta with a list of healthy food choices and recommended that he consult with a nutritionist to create a meal plan that best suits his needs. ","follow healthy diet, exercise regularly",0,"follow healthy diet, exercise regularly"
+What drug did the doctor prescribe?," During the visit, I assessed Carlos Murrieta, a 75-year-old patient who presented with symptoms of obesity, restlessness, and lethargy. After a thorough physical examination, I reviewed his medical history and discussed his lifestyle and diet with him. Upon further investigation, it was determined that Mr. Murrieta had diabetes. 
+
+To help manage his diabetes, I advised Mr. Murrieta to take precautions such as following a balanced diet, exercising regularly, and scheduling follow-up appointments for ongoing monitoring. I also provided him with educational resources and discussed the importance of regular blood glucose monitoring. No medication was prescribed at this time. I emphasized the importance of lifestyle modifications to manage his diabetes and improve his overall health. I also encouraged him to quit smoking, if applicable, and to limit his alcohol consumption. I provided Mr. Murrieta with a list of healthy food choices and recommended that he consult with a nutritionist to create a meal plan that best suits his needs. ",None,0,None
+What is the patient's name?," D: Good morning, Thomas. How can I help you today?
+
+P: Good morning, doctor. I have been suffering from weakness in my lower back, dizziness and pain in my neck for several days.
+
+D: Feeling it, Thomas G. Based on your symptoms and your age, I'm hoping you may have cervical spondylosis.
+
+P: What is it, doctor?
+
+D: Cervical spondylosis is a condition that affects the cervical spine, which is part of your neck. This is common in people over the age of 60 and may cause pain and stiffness in your neck, as well as a feeling of weakness and numbness in your lumbar spine.
+
+P: Oh, I understand. To make me feel better ",Thomas,0,Thomas
+What is the patient's age?," D: Good morning, Thomas. How can I help you today?
+
+P: Good morning, doctor. I have been suffering from weakness in my lower back, dizziness and pain in my neck for several days.
+
+D: Feeling it, Thomas G. Based on your symptoms and your age, I'm hoping you may have cervical spondylosis.
+
+P: What is it, doctor?
+
+D: Cervical spondylosis is a condition that affects the cervical spine, which is part of your neck. This is common in people over the age of 60 and may cause pain and stiffness in your neck, as well as a feeling of weakness and numbness in your lumbar spine.
+
+P: Oh, I understand. To make me feel better ",None,0,None
+What is the patient's condition?," D: Good morning, Thomas. How can I help you today?
+
+P: Good morning, doctor. I have been suffering from weakness in my lower back, dizziness and pain in my neck for several days.
+
+D: Feeling it, Thomas G. Based on your symptoms and your age, I'm hoping you may have cervical spondylosis.
+
+P: What is it, doctor?
+
+D: Cervical spondylosis is a condition that affects the cervical spine, which is part of your neck. This is common in people over the age of 60 and may cause pain and stiffness in your neck, as well as a feeling of weakness and numbness in your lumbar spine.
+
+P: Oh, I understand. To make me feel better ",Cervical spondylosis,0,Cervical spondylosis
+What symptoms is the patient experiencing?," D: Good morning, Thomas. How can I help you today?
+
+P: Good morning, doctor. I have been suffering from weakness in my lower back, dizziness and pain in my neck for several days.
+
+D: Feeling it, Thomas G. Based on your symptoms and your age, I'm hoping you may have cervical spondylosis.
+
+P: What is it, doctor?
+
+D: Cervical spondylosis is a condition that affects the cervical spine, which is part of your neck. This is common in people over the age of 60 and may cause pain and stiffness in your neck, as well as a feeling of weakness and numbness in your lumbar spine.
+
+P: Oh, I understand. To make me feel better ","Dizziness, neck pain,  lower back pain",0,"Dizziness, neck pain,  lower back pain"
+What precautions did the doctor advise?," D: Good morning, Thomas. How can I help you today?
+
+P: Good morning, doctor. I have been suffering from weakness in my lower back, dizziness and pain in my neck for several days.
+
+D: Feeling it, Thomas G. Based on your symptoms and your age, I'm hoping you may have cervical spondylosis.
+
+P: What is it, doctor?
+
+D: Cervical spondylosis is a condition that affects the cervical spine, which is part of your neck. This is common in people over the age of 60 and may cause pain and stiffness in your neck, as well as a feeling of weakness and numbness in your lumbar spine.
+
+P: Oh, I understand. To make me feel better ",None,0,None
+What drug did the doctor prescribe?," D: Good morning, Thomas. How can I help you today?
+
+P: Good morning, doctor. I have been suffering from weakness in my lower back, dizziness and pain in my neck for several days.
+
+D: Feeling it, Thomas G. Based on your symptoms and your age, I'm hoping you may have cervical spondylosis.
+
+P: What is it, doctor?
+
+D: Cervical spondylosis is a condition that affects the cervical spine, which is part of your neck. This is common in people over the age of 60 and may cause pain and stiffness in your neck, as well as a feeling of weakness and numbness in your lumbar spine.
+
+P: Oh, I understand. To make me feel better ",None,0,None
+What is the patient's name?," During the visit, I, the doctor, examined Bernita Smith, a 35-year-old patient who presented with symptoms of psoriasis, including a silver-like dusting on her skin, joint pain, and small dents in her nails. After conducting a thorough examination, I determined that the patient's condition was indeed psoriasis. To manage her symptoms, I advised her to wash her hands with warm, soapy water, stop any bleeding using pressure, and take salt baths. Additionally, I prescribed the medication LoKara to help alleviate her symptoms. Overall, I instructed the patient to continue with these precautions and to schedule a follow-up appointment in two weeks for further evaluation. ",Bernita Smith,0,Bernita Smith
+What is the patient's age?," During the visit, I, the doctor, examined Bernita Smith, a 35-year-old patient who presented with symptoms of psoriasis, including a silver-like dusting on her skin, joint pain, and small dents in her nails. After conducting a thorough examination, I determined that the patient's condition was indeed psoriasis. To manage her symptoms, I advised her to wash her hands with warm, soapy water, stop any bleeding using pressure, and take salt baths. Additionally, I prescribed the medication LoKara to help alleviate her symptoms. Overall, I instructed the patient to continue with these precautions and to schedule a follow-up appointment in two weeks for further evaluation. ",35,0,35
+What is the patient's condition?," During the visit, I, the doctor, examined Bernita Smith, a 35-year-old patient who presented with symptoms of psoriasis, including a silver-like dusting on her skin, joint pain, and small dents in her nails. After conducting a thorough examination, I determined that the patient's condition was indeed psoriasis. To manage her symptoms, I advised her to wash her hands with warm, soapy water, stop any bleeding using pressure, and take salt baths. Additionally, I prescribed the medication LoKara to help alleviate her symptoms. Overall, I instructed the patient to continue with these precautions and to schedule a follow-up appointment in two weeks for further evaluation. ",Psoriasis,0,Psoriasis
+What symptoms is the patient experiencing?," During the visit, I, the doctor, examined Bernita Smith, a 35-year-old patient who presented with symptoms of psoriasis, including a silver-like dusting on her skin, joint pain, and small dents in her nails. After conducting a thorough examination, I determined that the patient's condition was indeed psoriasis. To manage her symptoms, I advised her to wash her hands with warm, soapy water, stop any bleeding using pressure, and take salt baths. Additionally, I prescribed the medication LoKara to help alleviate her symptoms. Overall, I instructed the patient to continue with these precautions and to schedule a follow-up appointment in two weeks for further evaluation. ","Silver-like dusting on skin, joint pain, small dents nails",0,"Silver-like dusting on skin, joint pain, small dents nails"
+What precautions did the doctor advise?," During the visit, I, the doctor, examined Bernita Smith, a 35-year-old patient who presented with symptoms of psoriasis, including a silver-like dusting on her skin, joint pain, and small dents in her nails. After conducting a thorough examination, I determined that the patient's condition was indeed psoriasis. To manage her symptoms, I advised her to wash her hands with warm, soapy water, stop any bleeding using pressure, and take salt baths. Additionally, I prescribed the medication LoKara to help alleviate her symptoms. Overall, I instructed the patient to continue with these precautions and to schedule a follow-up appointment in two weeks for further evaluation. ","Wash hands, use pressure, use bath salts",0,"Wash hands, use pressure, use bath salts"
+What drug did the doctor prescribe?," During the visit, I, the doctor, examined Bernita Smith, a 35-year-old patient who presented with symptoms of psoriasis, including a silver-like dusting on her skin, joint pain, and small dents in her nails. After conducting a thorough examination, I determined that the patient's condition was indeed psoriasis. To manage her symptoms, I advised her to wash her hands with warm, soapy water, stop any bleeding using pressure, and take salt baths. Additionally, I prescribed the medication LoKara to help alleviate her symptoms. Overall, I instructed the patient to continue with these precautions and to schedule a follow-up appointment in two weeks for further evaluation. ",Lokara,0,Lokara
+What is the patient's name?," During the visit, I, the doctor, determined that Garrett Brown, a 64-year-old patient, has diabetes based on his symptoms of weight loss, excessive hunger, and lethargy. I advised him to maintain a balanced diet, exercise regularly, and follow up with regular check-ups. Since medication is not necessary at this time, I did not prescribe any. ",Garrett Brown,0,Garrett Brown
+What is the patient's age?," During the visit, I, the doctor, determined that Garrett Brown, a 64-year-old patient, has diabetes based on his symptoms of weight loss, excessive hunger, and lethargy. I advised him to maintain a balanced diet, exercise regularly, and follow up with regular check-ups. Since medication is not necessary at this time, I did not prescribe any. ",64,0,64
+What is the patient's condition?," During the visit, I, the doctor, determined that Garrett Brown, a 64-year-old patient, has diabetes based on his symptoms of weight loss, excessive hunger, and lethargy. I advised him to maintain a balanced diet, exercise regularly, and follow up with regular check-ups. Since medication is not necessary at this time, I did not prescribe any. ",Diabetes,0,Diabetes
+What symptoms is the patient experiencing?," During the visit, I, the doctor, determined that Garrett Brown, a 64-year-old patient, has diabetes based on his symptoms of weight loss, excessive hunger, and lethargy. I advised him to maintain a balanced diet, exercise regularly, and follow up with regular check-ups. Since medication is not necessary at this time, I did not prescribe any. ","Weight loss, excessive hunger, lethargy",0,"Weight loss, excessive hunger, lethargy"
+What precautions did the doctor advise?," During the visit, I, the doctor, determined that Garrett Brown, a 64-year-old patient, has diabetes based on his symptoms of weight loss, excessive hunger, and lethargy. I advised him to maintain a balanced diet, exercise regularly, and follow up with regular check-ups. Since medication is not necessary at this time, I did not prescribe any. ","maintain balanced diet, exercise regularly, follow up with regular checkups",0,"maintain balanced diet, exercise regularly, follow up with regular checkups"
+What drug did the doctor prescribe?," During the visit, I, the doctor, determined that Garrett Brown, a 64-year-old patient, has diabetes based on his symptoms of weight loss, excessive hunger, and lethargy. I advised him to maintain a balanced diet, exercise regularly, and follow up with regular check-ups. Since medication is not necessary at this time, I did not prescribe any. ",None,0,None
+What is the patient's name?," D: Nathaniel, I understand you've been feeling unwell. Can you tell me what symptoms you've been expe,riencing?
+
+P: Yesss, Doctorrr. I've had diarrhe<a and vomitting for the past two days. I also have very sunken eyeesss.
+
+D: Thank you for letting me know. Based on your symptoms, I believe you have gastroenteritis. It's important that you stop eating solid food for a while and try taking small sips of wa<ter. You should also rest and ease back into eating when you feel better.
+
+P: Okkkay, I understand. Is there anyyything else I should dooo?
+
+D: Nottt at the moment. If your symptoms worsen or don't improve within a few days, please come back for a follow-up appointment.
+
+P: Thank you, Doctor. I'll be sure to follow your advice.
+
+D: You're welcome, Nathaniel. Please get better soon. ",Nathaniel,0,Nathaniel
+What is the patient's age?," D: Nathaniel, I understand you've been feeling unwell. Can you tell me what symptoms you've been expe,riencing?
+
+P: Yesss, Doctorrr. I've had diarrhe<a and vomitting for the past two days. I also have very sunken eyeesss.
+
+D: Thank you for letting me know. Based on your symptoms, I believe you have gastroenteritis. It's important that you stop eating solid food for a while and try taking small sips of wa<ter. You should also rest and ease back into eating when you feel better.
+
+P: Okkkay, I understand. Is there anyyything else I should dooo?
+
+D: Nottt at the moment. If your symptoms worsen or don't improve within a few days, please come back for a follow-up appointment.
+
+P: Thank you, Doctor. I'll be sure to follow your advice.
+
+D: You're welcome, Nathaniel. Please get better soon. ",None,0,None
+What is the patient's condition?," D: Nathaniel, I understand you've been feeling unwell. Can you tell me what symptoms you've been expe,riencing?
+
+P: Yesss, Doctorrr. I've had diarrhe<a and vomitting for the past two days. I also have very sunken eyeesss.
+
+D: Thank you for letting me know. Based on your symptoms, I believe you have gastroenteritis. It's important that you stop eating solid food for a while and try taking small sips of wa<ter. You should also rest and ease back into eating when you feel better.
+
+P: Okkkay, I understand. Is there anyyything else I should dooo?
+
+D: Nottt at the moment. If your symptoms worsen or don't improve within a few days, please come back for a follow-up appointment.
+
+P: Thank you, Doctor. I'll be sure to follow your advice.
+
+D: You're welcome, Nathaniel. Please get better soon. ",Gastroenteritis,0,Gastroenteritis
+What symptoms is the patient experiencing?," D: Nathaniel, I understand you've been feeling unwell. Can you tell me what symptoms you've been expe,riencing?
+
+P: Yesss, Doctorrr. I've had diarrhe<a and vomitting for the past two days. I also have very sunken eyeesss.
+
+D: Thank you for letting me know. Based on your symptoms, I believe you have gastroenteritis. It's important that you stop eating solid food for a while and try taking small sips of wa<ter. You should also rest and ease back into eating when you feel better.
+
+P: Okkkay, I understand. Is there anyyything else I should dooo?
+
+D: Nottt at the moment. If your symptoms worsen or don't improve within a few days, please come back for a follow-up appointment.
+
+P: Thank you, Doctor. I'll be sure to follow your advice.
+
+D: You're welcome, Nathaniel. Please get better soon. ","Diarrhea, vomiting, sunken eyes",0,"Diarrhea, vomiting, sunken eyes"
+What precautions did the doctor advise?," D: Nathaniel, I understand you've been feeling unwell. Can you tell me what symptoms you've been expe,riencing?
+
+P: Yesss, Doctorrr. I've had diarrhe<a and vomitting for the past two days. I also have very sunken eyeesss.
+
+D: Thank you for letting me know. Based on your symptoms, I believe you have gastroenteritis. It's important that you stop eating solid food for a while and try taking small sips of wa<ter. You should also rest and ease back into eating when you feel better.
+
+P: Okkkay, I understand. Is there anyyything else I should dooo?
+
+D: Nottt at the moment. If your symptoms worsen or don't improve within a few days, please come back for a follow-up appointment.
+
+P: Thank you, Doctor. I'll be sure to follow your advice.
+
+D: You're welcome, Nathaniel. Please get better soon. ","stop eating food, small sips of water, rest",0,"stop eating food, small sips of water, rest"
+What drug did the doctor prescribe?," D: Nathaniel, I understand you've been feeling unwell. Can you tell me what symptoms you've been expe,riencing?
+
+P: Yesss, Doctorrr. I've had diarrhe<a and vomitting for the past two days. I also have very sunken eyeesss.
+
+D: Thank you for letting me know. Based on your symptoms, I believe you have gastroenteritis. It's important that you stop eating solid food for a while and try taking small sips of wa<ter. You should also rest and ease back into eating when you feel better.
+
+P: Okkkay, I understand. Is there anyyything else I should dooo?
+
+D: Nottt at the moment. If your symptoms worsen or don't improve within a few days, please come back for a follow-up appointment.
+
+P: Thank you, Doctor. I'll be sure to follow your advice.
+
+D: You're welcome, Nathaniel. Please get better soon. ",None,0,None
+What is the patient's name?," D: Good morning, Jose. How are you feeling today?
+P: I'm feeling really tired and irritable. I've been sweating a lot recently too.
+D: Jose, based on your symptoms, I believe you may have hypoglycemia. Your blood sugar levels are low, which is causing you to feel this way.
+P: What can I do to feel better?
+D: I would suggest that you lie down on your side to help you feel more comfortable. You should also check your pulse regularly to make sure it's stable. Additionally, it would be best to drink some sugary drinks or snacks to help raise your blood sugar levels.
+P: What about medication?
+D: At this point, I don't believe medication is necessary. However, if your symptoms persist or worsen, we may need to consider other options. In the meantime, follow the precautions I've recommended, and make sure to monitor your blood sugar levels regularly. Is there anything else you'd like to ask or discuss? ",Jose,0,Jose
+What is the patient's age?," D: Good morning, Jose. How are you feeling today?
+P: I'm feeling really tired and irritable. I've been sweating a lot recently too.
+D: Jose, based on your symptoms, I believe you may have hypoglycemia. Your blood sugar levels are low, which is causing you to feel this way.
+P: What can I do to feel better?
+D: I would suggest that you lie down on your side to help you feel more comfortable. You should also check your pulse regularly to make sure it's stable. Additionally, it would be best to drink some sugary drinks or snacks to help raise your blood sugar levels.
+P: What about medication?
+D: At this point, I don't believe medication is necessary. However, if your symptoms persist or worsen, we may need to consider other options. In the meantime, follow the precautions I've recommended, and make sure to monitor your blood sugar levels regularly. Is there anything else you'd like to ask or discuss? ",None,0,None
+What is the patient's condition?," D: Good morning, Jose. How are you feeling today?
+P: I'm feeling really tired and irritable. I've been sweating a lot recently too.
+D: Jose, based on your symptoms, I believe you may have hypoglycemia. Your blood sugar levels are low, which is causing you to feel this way.
+P: What can I do to feel better?
+D: I would suggest that you lie down on your side to help you feel more comfortable. You should also check your pulse regularly to make sure it's stable. Additionally, it would be best to drink some sugary drinks or snacks to help raise your blood sugar levels.
+P: What about medication?
+D: At this point, I don't believe medication is necessary. However, if your symptoms persist or worsen, we may need to consider other options. In the meantime, follow the precautions I've recommended, and make sure to monitor your blood sugar levels regularly. Is there anything else you'd like to ask or discuss? ",Hypoglycemia,0,Hypoglycemia
+What symptoms is the patient experiencing?," D: Good morning, Jose. How are you feeling today?
+P: I'm feeling really tired and irritable. I've been sweating a lot recently too.
+D: Jose, based on your symptoms, I believe you may have hypoglycemia. Your blood sugar levels are low, which is causing you to feel this way.
+P: What can I do to feel better?
+D: I would suggest that you lie down on your side to help you feel more comfortable. You should also check your pulse regularly to make sure it's stable. Additionally, it would be best to drink some sugary drinks or snacks to help raise your blood sugar levels.
+P: What about medication?
+D: At this point, I don't believe medication is necessary. However, if your symptoms persist or worsen, we may need to consider other options. In the meantime, follow the precautions I've recommended, and make sure to monitor your blood sugar levels regularly. Is there anything else you'd like to ask or discuss? ","Tired, irratable, sweating",0,"Tired, irratable, sweating"
+What precautions did the doctor advise?," D: Good morning, Jose. How are you feeling today?
+P: I'm feeling really tired and irritable. I've been sweating a lot recently too.
+D: Jose, based on your symptoms, I believe you may have hypoglycemia. Your blood sugar levels are low, which is causing you to feel this way.
+P: What can I do to feel better?
+D: I would suggest that you lie down on your side to help you feel more comfortable. You should also check your pulse regularly to make sure it's stable. Additionally, it would be best to drink some sugary drinks or snacks to help raise your blood sugar levels.
+P: What about medication?
+D: At this point, I don't believe medication is necessary. However, if your symptoms persist or worsen, we may need to consider other options. In the meantime, follow the precautions I've recommended, and make sure to monitor your blood sugar levels regularly. Is there anything else you'd like to ask or discuss? ",Monitor blood sugar levels,0,Monitor blood sugar levels
+What drug did the doctor prescribe?," D: Good morning, Jose. How are you feeling today?
+P: I'm feeling really tired and irritable. I've been sweating a lot recently too.
+D: Jose, based on your symptoms, I believe you may have hypoglycemia. Your blood sugar levels are low, which is causing you to feel this way.
+P: What can I do to feel better?
+D: I would suggest that you lie down on your side to help you feel more comfortable. You should also check your pulse regularly to make sure it's stable. Additionally, it would be best to drink some sugary drinks or snacks to help raise your blood sugar levels.
+P: What about medication?
+D: At this point, I don't believe medication is necessary. However, if your symptoms persist or worsen, we may need to consider other options. In the meantime, follow the precautions I've recommended, and make sure to monitor your blood sugar levels regularly. Is there anything else you'd like to ask or discuss? ",None,0,None
+What is the patient's name?," D: Good morning, Amanda. How can I help you today?
+P: Hi, Doctor. I've been feeling a lot of urine and it hurts when I pee. I also feel discomfort in my bladder.
+D: I see. Based on your symptoms, it seems like you might have a urinary tract infection.
+P: Yes, that's what I thought.
+D: To help manage the symptoms, I would recommend that you drink plenty of water, increase your vitamin C intake, drink cranberry juice, and take probiotics. As for medication, I don't think it's necessary in this case.
+P: Thank you, Doctor. I'll make sure to follow your advice. 
+D: You're welcome, Amanda. If the symptoms persist or worsen, please don't hesitate to come back for a follow-up appointment. Take care. ",Amanda,0,Amanda
+What is the patient's age?," D: Good morning, Amanda. How can I help you today?
+P: Hi, Doctor. I've been feeling a lot of urine and it hurts when I pee. I also feel discomfort in my bladder.
+D: I see. Based on your symptoms, it seems like you might have a urinary tract infection.
+P: Yes, that's what I thought.
+D: To help manage the symptoms, I would recommend that you drink plenty of water, increase your vitamin C intake, drink cranberry juice, and take probiotics. As for medication, I don't think it's necessary in this case.
+P: Thank you, Doctor. I'll make sure to follow your advice. 
+D: You're welcome, Amanda. If the symptoms persist or worsen, please don't hesitate to come back for a follow-up appointment. Take care. ",None,0,None
+What is the patient's condition?," D: Good morning, Amanda. How can I help you today?
+P: Hi, Doctor. I've been feeling a lot of urine and it hurts when I pee. I also feel discomfort in my bladder.
+D: I see. Based on your symptoms, it seems like you might have a urinary tract infection.
+P: Yes, that's what I thought.
+D: To help manage the symptoms, I would recommend that you drink plenty of water, increase your vitamin C intake, drink cranberry juice, and take probiotics. As for medication, I don't think it's necessary in this case.
+P: Thank you, Doctor. I'll make sure to follow your advice. 
+D: You're welcome, Amanda. If the symptoms persist or worsen, please don't hesitate to come back for a follow-up appointment. Take care. ",Urinary tract infection,0,Urinary tract infection
+What symptoms is the patient experiencing?," D: Good morning, Amanda. How can I help you today?
+P: Hi, Doctor. I've been feeling a lot of urine and it hurts when I pee. I also feel discomfort in my bladder.
+D: I see. Based on your symptoms, it seems like you might have a urinary tract infection.
+P: Yes, that's what I thought.
+D: To help manage the symptoms, I would recommend that you drink plenty of water, increase your vitamin C intake, drink cranberry juice, and take probiotics. As for medication, I don't think it's necessary in this case.
+P: Thank you, Doctor. I'll make sure to follow your advice. 
+D: You're welcome, Amanda. If the symptoms persist or worsen, please don't hesitate to come back for a follow-up appointment. Take care. ","Pain peeing, lots of urine, bladder discomfort",0,"Pain peeing, lots of urine, bladder discomfort"
+What precautions did the doctor advise?," D: Good morning, Amanda. How can I help you today?
+P: Hi, Doctor. I've been feeling a lot of urine and it hurts when I pee. I also feel discomfort in my bladder.
+D: I see. Based on your symptoms, it seems like you might have a urinary tract infection.
+P: Yes, that's what I thought.
+D: To help manage the symptoms, I would recommend that you drink plenty of water, increase your vitamin C intake, drink cranberry juice, and take probiotics. As for medication, I don't think it's necessary in this case.
+P: Thank you, Doctor. I'll make sure to follow your advice. 
+D: You're welcome, Amanda. If the symptoms persist or worsen, please don't hesitate to come back for a follow-up appointment. Take care. ","Drinking plenty water, drink cranberry juice, take probiotics",0,"Drinking plenty water, drink cranberry juice, take probiotics"
+What drug did the doctor prescribe?," D: Good morning, Amanda. How can I help you today?
+P: Hi, Doctor. I've been feeling a lot of urine and it hurts when I pee. I also feel discomfort in my bladder.
+D: I see. Based on your symptoms, it seems like you might have a urinary tract infection.
+P: Yes, that's what I thought.
+D: To help manage the symptoms, I would recommend that you drink plenty of water, increase your vitamin C intake, drink cranberry juice, and take probiotics. As for medication, I don't think it's necessary in this case.
+P: Thank you, Doctor. I'll make sure to follow your advice. 
+D: You're welcome, Amanda. If the symptoms persist or worsen, please don't hesitate to come back for a follow-up appointment. Take care. ",None,0,None
+What is the patient's name?," D: Good morning, Lucy. How can I help you today?
+
+P: Hi, Doctor. I've been having these headaches that make my vision blurry and distorted. 
+
+D: I see that you have a history of migraines, Lucy. Based on your symptoms, it seems like you might be experiencing another one.
+
+P: Yes, that's right. And my appetite has increased a lot lately too. It's making me feel very hungry all the time.
+
+D: Those are common symptoms of migraines. Additionally, you might experience visual disturbances such as auras or flashes of light.
+
+P: Yes, that's also happening to me. It's really frustrating and uncomfortable.
+
+D: I understand, Lucy. To help manage your migraines, I would recommend practicing meditation and reducing your stress levels. You can also use polarized glasses when you're outside to help reduce glare and brightness.
+
+P: Ok, I'll try that. And what about medication?
+
+D: I would prescribe Fiorinal for you to take as needed for your migraines. Make sure to take it at the first sign of a headache to get the best results.
+
+P: Alright, thank you, Doctor.
+
+D: You're welcome, Lucy. If your symptoms worsen or don't improve within a week, please come back for a follow-up appointment. ",Lucy,0,Lucy
+What is the patient's age?," D: Good morning, Lucy. How can I help you today?
+
+P: Hi, Doctor. I've been having these headaches that make my vision blurry and distorted. 
+
+D: I see that you have a history of migraines, Lucy. Based on your symptoms, it seems like you might be experiencing another one.
+
+P: Yes, that's right. And my appetite has increased a lot lately too. It's making me feel very hungry all the time.
+
+D: Those are common symptoms of migraines. Additionally, you might experience visual disturbances such as auras or flashes of light.
+
+P: Yes, that's also happening to me. It's really frustrating and uncomfortable.
+
+D: I understand, Lucy. To help manage your migraines, I would recommend practicing meditation and reducing your stress levels. You can also use polarized glasses when you're outside to help reduce glare and brightness.
+
+P: Ok, I'll try that. And what about medication?
+
+D: I would prescribe Fiorinal for you to take as needed for your migraines. Make sure to take it at the first sign of a headache to get the best results.
+
+P: Alright, thank you, Doctor.
+
+D: You're welcome, Lucy. If your symptoms worsen or don't improve within a week, please come back for a follow-up appointment. ",None,0,None
+What is the patient's condition?," D: Good morning, Lucy. How can I help you today?
+
+P: Hi, Doctor. I've been having these headaches that make my vision blurry and distorted. 
+
+D: I see that you have a history of migraines, Lucy. Based on your symptoms, it seems like you might be experiencing another one.
+
+P: Yes, that's right. And my appetite has increased a lot lately too. It's making me feel very hungry all the time.
+
+D: Those are common symptoms of migraines. Additionally, you might experience visual disturbances such as auras or flashes of light.
+
+P: Yes, that's also happening to me. It's really frustrating and uncomfortable.
+
+D: I understand, Lucy. To help manage your migraines, I would recommend practicing meditation and reducing your stress levels. You can also use polarized glasses when you're outside to help reduce glare and brightness.
+
+P: Ok, I'll try that. And what about medication?
+
+D: I would prescribe Fiorinal for you to take as needed for your migraines. Make sure to take it at the first sign of a headache to get the best results.
+
+P: Alright, thank you, Doctor.
+
+D: You're welcome, Lucy. If your symptoms worsen or don't improve within a week, please come back for a follow-up appointment. ",Migraines,0,Migraines
+What symptoms is the patient experiencing?," D: Good morning, Lucy. How can I help you today?
+
+P: Hi, Doctor. I've been having these headaches that make my vision blurry and distorted. 
+
+D: I see that you have a history of migraines, Lucy. Based on your symptoms, it seems like you might be experiencing another one.
+
+P: Yes, that's right. And my appetite has increased a lot lately too. It's making me feel very hungry all the time.
+
+D: Those are common symptoms of migraines. Additionally, you might experience visual disturbances such as auras or flashes of light.
+
+P: Yes, that's also happening to me. It's really frustrating and uncomfortable.
+
+D: I understand, Lucy. To help manage your migraines, I would recommend practicing meditation and reducing your stress levels. You can also use polarized glasses when you're outside to help reduce glare and brightness.
+
+P: Ok, I'll try that. And what about medication?
+
+D: I would prescribe Fiorinal for you to take as needed for your migraines. Make sure to take it at the first sign of a headache to get the best results.
+
+P: Alright, thank you, Doctor.
+
+D: You're welcome, Lucy. If your symptoms worsen or don't improve within a week, please come back for a follow-up appointment. ","Distorted vision, increased appetite",0,"Distorted vision, increased appetite"
+What precautions did the doctor advise?," D: Good morning, Lucy. How can I help you today?
+
+P: Hi, Doctor. I've been having these headaches that make my vision blurry and distorted. 
+
+D: I see that you have a history of migraines, Lucy. Based on your symptoms, it seems like you might be experiencing another one.
+
+P: Yes, that's right. And my appetite has increased a lot lately too. It's making me feel very hungry all the time.
+
+D: Those are common symptoms of migraines. Additionally, you might experience visual disturbances such as auras or flashes of light.
+
+P: Yes, that's also happening to me. It's really frustrating and uncomfortable.
+
+D: I understand, Lucy. To help manage your migraines, I would recommend practicing meditation and reducing your stress levels. You can also use polarized glasses when you're outside to help reduce glare and brightness.
+
+P: Ok, I'll try that. And what about medication?
+
+D: I would prescribe Fiorinal for you to take as needed for your migraines. Make sure to take it at the first sign of a headache to get the best results.
+
+P: Alright, thank you, Doctor.
+
+D: You're welcome, Lucy. If your symptoms worsen or don't improve within a week, please come back for a follow-up appointment. ","Meditation, polarized glasses",0,"Meditation, polarized glasses"
+What drug did the doctor prescribe?," D: Good morning, Lucy. How can I help you today?
+
+P: Hi, Doctor. I've been having these headaches that make my vision blurry and distorted. 
+
+D: I see that you have a history of migraines, Lucy. Based on your symptoms, it seems like you might be experiencing another one.
+
+P: Yes, that's right. And my appetite has increased a lot lately too. It's making me feel very hungry all the time.
+
+D: Those are common symptoms of migraines. Additionally, you might experience visual disturbances such as auras or flashes of light.
+
+P: Yes, that's also happening to me. It's really frustrating and uncomfortable.
+
+D: I understand, Lucy. To help manage your migraines, I would recommend practicing meditation and reducing your stress levels. You can also use polarized glasses when you're outside to help reduce glare and brightness.
+
+P: Ok, I'll try that. And what about medication?
+
+D: I would prescribe Fiorinal for you to take as needed for your migraines. Make sure to take it at the first sign of a headache to get the best results.
+
+P: Alright, thank you, Doctor.
+
+D: You're welcome, Lucy. If your symptoms worsen or don't improve within a week, please come back for a follow-up appointment. ",None,0,None
+What is the patient's name?," D: Good morning, David. How are you feeling today?
+
+P: Hi, Doctor. I've been experiencing a lot of nausea, muscle pain, and I've lost my appetite.
+
+D: I see. Based on your symptoms, it appears that you have hepatitis A.
+
+P: Hepatitis A? What is that?
+
+D: Hepatitis A is a liver infection caused by the hepatitis A virus. It's highly contagious and spreads through contaminated food or water.
+
+P: Oh, I see. How can I prevent it from spreading?
+
+D: You should consult the nearest hospital immediately, wash your hands thoroughly, avoid fatty and spicy food, and stay hydrated. Additionally, make sure to keep your surroundings clean and sanitized.
+
+P: Alright, I will follow your advice. Are there any medications you're prescribing?
+
+D: No, there is no specific medication for hepatitis A. However, you should rest and allow your body to recover. If your symptoms worsen or do not improve within a week, please come back for a follow-up appointment.
+
+P: Thank you, Doctor. I will make sure to take care of myself and follow your advice.
+
+D: You're welcome, David. If you have any further questions or concerns, please don't hesitate to reach out. ",David,0,David
+What is the patient's age?," D: Good morning, David. How are you feeling today?
+
+P: Hi, Doctor. I've been experiencing a lot of nausea, muscle pain, and I've lost my appetite.
+
+D: I see. Based on your symptoms, it appears that you have hepatitis A.
+
+P: Hepatitis A? What is that?
+
+D: Hepatitis A is a liver infection caused by the hepatitis A virus. It's highly contagious and spreads through contaminated food or water.
+
+P: Oh, I see. How can I prevent it from spreading?
+
+D: You should consult the nearest hospital immediately, wash your hands thoroughly, avoid fatty and spicy food, and stay hydrated. Additionally, make sure to keep your surroundings clean and sanitized.
+
+P: Alright, I will follow your advice. Are there any medications you're prescribing?
+
+D: No, there is no specific medication for hepatitis A. However, you should rest and allow your body to recover. If your symptoms worsen or do not improve within a week, please come back for a follow-up appointment.
+
+P: Thank you, Doctor. I will make sure to take care of myself and follow your advice.
+
+D: You're welcome, David. If you have any further questions or concerns, please don't hesitate to reach out. ",None,0,None
+What is the patient's condition?," D: Good morning, David. How are you feeling today?
+
+P: Hi, Doctor. I've been experiencing a lot of nausea, muscle pain, and I've lost my appetite.
+
+D: I see. Based on your symptoms, it appears that you have hepatitis A.
+
+P: Hepatitis A? What is that?
+
+D: Hepatitis A is a liver infection caused by the hepatitis A virus. It's highly contagious and spreads through contaminated food or water.
+
+P: Oh, I see. How can I prevent it from spreading?
+
+D: You should consult the nearest hospital immediately, wash your hands thoroughly, avoid fatty and spicy food, and stay hydrated. Additionally, make sure to keep your surroundings clean and sanitized.
+
+P: Alright, I will follow your advice. Are there any medications you're prescribing?
+
+D: No, there is no specific medication for hepatitis A. However, you should rest and allow your body to recover. If your symptoms worsen or do not improve within a week, please come back for a follow-up appointment.
+
+P: Thank you, Doctor. I will make sure to take care of myself and follow your advice.
+
+D: You're welcome, David. If you have any further questions or concerns, please don't hesitate to reach out. ",Hepatitis A,0,Hepatitis A
+What symptoms is the patient experiencing?," D: Good morning, David. How are you feeling today?
+
+P: Hi, Doctor. I've been experiencing a lot of nausea, muscle pain, and I've lost my appetite.
+
+D: I see. Based on your symptoms, it appears that you have hepatitis A.
+
+P: Hepatitis A? What is that?
+
+D: Hepatitis A is a liver infection caused by the hepatitis A virus. It's highly contagious and spreads through contaminated food or water.
+
+P: Oh, I see. How can I prevent it from spreading?
+
+D: You should consult the nearest hospital immediately, wash your hands thoroughly, avoid fatty and spicy food, and stay hydrated. Additionally, make sure to keep your surroundings clean and sanitized.
+
+P: Alright, I will follow your advice. Are there any medications you're prescribing?
+
+D: No, there is no specific medication for hepatitis A. However, you should rest and allow your body to recover. If your symptoms worsen or do not improve within a week, please come back for a follow-up appointment.
+
+P: Thank you, Doctor. I will make sure to take care of myself and follow your advice.
+
+D: You're welcome, David. If you have any further questions or concerns, please don't hesitate to reach out. ","Muscle pain, loss of appetite, nausea",0,"Muscle pain, loss of appetite, nausea"
+What precautions did the doctor advise?," D: Good morning, David. How are you feeling today?
+
+P: Hi, Doctor. I've been experiencing a lot of nausea, muscle pain, and I've lost my appetite.
+
+D: I see. Based on your symptoms, it appears that you have hepatitis A.
+
+P: Hepatitis A? What is that?
+
+D: Hepatitis A is a liver infection caused by the hepatitis A virus. It's highly contagious and spreads through contaminated food or water.
+
+P: Oh, I see. How can I prevent it from spreading?
+
+D: You should consult the nearest hospital immediately, wash your hands thoroughly, avoid fatty and spicy food, and stay hydrated. Additionally, make sure to keep your surroundings clean and sanitized.
+
+P: Alright, I will follow your advice. Are there any medications you're prescribing?
+
+D: No, there is no specific medication for hepatitis A. However, you should rest and allow your body to recover. If your symptoms worsen or do not improve within a week, please come back for a follow-up appointment.
+
+P: Thank you, Doctor. I will make sure to take care of myself and follow your advice.
+
+D: You're welcome, David. If you have any further questions or concerns, please don't hesitate to reach out. ","Avoid fatty and spicy food, stay hydrated, keep surroundings clean",0,"Avoid fatty and spicy food, stay hydrated, keep surroundings clean"
+What drug did the doctor prescribe?," D: Good morning, David. How are you feeling today?
+
+P: Hi, Doctor. I've been experiencing a lot of nausea, muscle pain, and I've lost my appetite.
+
+D: I see. Based on your symptoms, it appears that you have hepatitis A.
+
+P: Hepatitis A? What is that?
+
+D: Hepatitis A is a liver infection caused by the hepatitis A virus. It's highly contagious and spreads through contaminated food or water.
+
+P: Oh, I see. How can I prevent it from spreading?
+
+D: You should consult the nearest hospital immediately, wash your hands thoroughly, avoid fatty and spicy food, and stay hydrated. Additionally, make sure to keep your surroundings clean and sanitized.
+
+P: Alright, I will follow your advice. Are there any medications you're prescribing?
+
+D: No, there is no specific medication for hepatitis A. However, you should rest and allow your body to recover. If your symptoms worsen or do not improve within a week, please come back for a follow-up appointment.
+
+P: Thank you, Doctor. I will make sure to take care of myself and follow your advice.
+
+D: You're welcome, David. If you have any further questions or concerns, please don't hesitate to reach out. ",None,0,None
+What is the patient's name?," During the visit, Latisha Kirby, a 39-year-old patient, presented with symptoms of aids, including muscle wasting, patches in her throat, and high fever. Upon examination, it was determined that she had aids. As a result, I advised her to avoid open cuts and to wear personal protective equipment if possible. I also recommended that she follow up with her primary care physician for further evaluation and treatment. Since Latisha's condition is aids, there are no prescribed medications for her symptoms. ",Latisha Kirby,0,Latisha Kirby
+What is the patient's age?," During the visit, Latisha Kirby, a 39-year-old patient, presented with symptoms of aids, including muscle wasting, patches in her throat, and high fever. Upon examination, it was determined that she had aids. As a result, I advised her to avoid open cuts and to wear personal protective equipment if possible. I also recommended that she follow up with her primary care physician for further evaluation and treatment. Since Latisha's condition is aids, there are no prescribed medications for her symptoms. ",39,0,39
+What is the patient's condition?," During the visit, Latisha Kirby, a 39-year-old patient, presented with symptoms of aids, including muscle wasting, patches in her throat, and high fever. Upon examination, it was determined that she had aids. As a result, I advised her to avoid open cuts and to wear personal protective equipment if possible. I also recommended that she follow up with her primary care physician for further evaluation and treatment. Since Latisha's condition is aids, there are no prescribed medications for her symptoms. ",Aids,0,Aids
+What symptoms is the patient experiencing?," During the visit, Latisha Kirby, a 39-year-old patient, presented with symptoms of aids, including muscle wasting, patches in her throat, and high fever. Upon examination, it was determined that she had aids. As a result, I advised her to avoid open cuts and to wear personal protective equipment if possible. I also recommended that she follow up with her primary care physician for further evaluation and treatment. Since Latisha's condition is aids, there are no prescribed medications for her symptoms. ","Muscle wasting, throat patches, high fever",0,"Muscle wasting, throat patches, high fever"
+What precautions did the doctor advise?," During the visit, Latisha Kirby, a 39-year-old patient, presented with symptoms of aids, including muscle wasting, patches in her throat, and high fever. Upon examination, it was determined that she had aids. As a result, I advised her to avoid open cuts and to wear personal protective equipment if possible. I also recommended that she follow up with her primary care physician for further evaluation and treatment. Since Latisha's condition is aids, there are no prescribed medications for her symptoms. ","Avoid open cuts, wear personal protective equipment",0,"Avoid open cuts, wear personal protective equipment"
+What drug did the doctor prescribe?," During the visit, Latisha Kirby, a 39-year-old patient, presented with symptoms of aids, including muscle wasting, patches in her throat, and high fever. Upon examination, it was determined that she had aids. As a result, I advised her to avoid open cuts and to wear personal protective equipment if possible. I also recommended that she follow up with her primary care physician for further evaluation and treatment. Since Latisha's condition is aids, there are no prescribed medications for her symptoms. ",None,0,None
+What is the patient's name?," D: Good morning Mr. Ashburn, how can I help you today?
+
+P: Hi, I've been feeling really unwell lately. I've had abdominal pain, vomiting, and a high fever for the past few days.
+
+D: I see from your medical records that you were diagnosed with jaundice. Can you tell me more about your symptoms?
+
+P: Yes, the abdominal pain and nausea have been really bad. I've been throwing up a lot, and I feel really weak. I have also been having difficulty sleeping and eating.
+
+D: Thank you for letting me know. Based on your symptoms, I would advise you to drink plenty of water, consume milk thistle, and eat fruits and high fiberous foods. These will help with the jaundice and alleviate some of your symptoms. Additionally, I would suggest avoiding processed and sugary foods, as well as caffeine and alcohol. 
+
+P: Can you also prescribe some medication for me?
+
+D: At this point, medication is not necessary. It is more important that you focus on lifestyle changes to help manage your symptoms. However, if your symptoms worsen or do not improve within the next few days, please come back for a follow-up appointment. In the meantime, I suggest you get plenty of rest and take ibuprofen to reduce your fever.
+
+P: Okay, I understand. Thank you for your help.
+
+D: You're welcome. Please remember to drink plenty of fluids, eat well, and take the milk thistle. Avoid processed and sugary foods, caffeine, and alcohol. Get plenty of rest and take ibuprofen to reduce your fever. If you have any further questions or concerns, please don't hesitate to reach out. ",Ashburn,0,Ashburn
+What is the patient's age?," D: Good morning Mr. Ashburn, how can I help you today?
+
+P: Hi, I've been feeling really unwell lately. I've had abdominal pain, vomiting, and a high fever for the past few days.
+
+D: I see from your medical records that you were diagnosed with jaundice. Can you tell me more about your symptoms?
+
+P: Yes, the abdominal pain and nausea have been really bad. I've been throwing up a lot, and I feel really weak. I have also been having difficulty sleeping and eating.
+
+D: Thank you for letting me know. Based on your symptoms, I would advise you to drink plenty of water, consume milk thistle, and eat fruits and high fiberous foods. These will help with the jaundice and alleviate some of your symptoms. Additionally, I would suggest avoiding processed and sugary foods, as well as caffeine and alcohol. 
+
+P: Can you also prescribe some medication for me?
+
+D: At this point, medication is not necessary. It is more important that you focus on lifestyle changes to help manage your symptoms. However, if your symptoms worsen or do not improve within the next few days, please come back for a follow-up appointment. In the meantime, I suggest you get plenty of rest and take ibuprofen to reduce your fever.
+
+P: Okay, I understand. Thank you for your help.
+
+D: You're welcome. Please remember to drink plenty of fluids, eat well, and take the milk thistle. Avoid processed and sugary foods, caffeine, and alcohol. Get plenty of rest and take ibuprofen to reduce your fever. If you have any further questions or concerns, please don't hesitate to reach out. ",None,0,None
+What is the patient's condition?," D: Good morning Mr. Ashburn, how can I help you today?
+
+P: Hi, I've been feeling really unwell lately. I've had abdominal pain, vomiting, and a high fever for the past few days.
+
+D: I see from your medical records that you were diagnosed with jaundice. Can you tell me more about your symptoms?
+
+P: Yes, the abdominal pain and nausea have been really bad. I've been throwing up a lot, and I feel really weak. I have also been having difficulty sleeping and eating.
+
+D: Thank you for letting me know. Based on your symptoms, I would advise you to drink plenty of water, consume milk thistle, and eat fruits and high fiberous foods. These will help with the jaundice and alleviate some of your symptoms. Additionally, I would suggest avoiding processed and sugary foods, as well as caffeine and alcohol. 
+
+P: Can you also prescribe some medication for me?
+
+D: At this point, medication is not necessary. It is more important that you focus on lifestyle changes to help manage your symptoms. However, if your symptoms worsen or do not improve within the next few days, please come back for a follow-up appointment. In the meantime, I suggest you get plenty of rest and take ibuprofen to reduce your fever.
+
+P: Okay, I understand. Thank you for your help.
+
+D: You're welcome. Please remember to drink plenty of fluids, eat well, and take the milk thistle. Avoid processed and sugary foods, caffeine, and alcohol. Get plenty of rest and take ibuprofen to reduce your fever. If you have any further questions or concerns, please don't hesitate to reach out. ",Jaundice,0,Jaundice
+What symptoms is the patient experiencing?," D: Good morning Mr. Ashburn, how can I help you today?
+
+P: Hi, I've been feeling really unwell lately. I've had abdominal pain, vomiting, and a high fever for the past few days.
+
+D: I see from your medical records that you were diagnosed with jaundice. Can you tell me more about your symptoms?
+
+P: Yes, the abdominal pain and nausea have been really bad. I've been throwing up a lot, and I feel really weak. I have also been having difficulty sleeping and eating.
+
+D: Thank you for letting me know. Based on your symptoms, I would advise you to drink plenty of water, consume milk thistle, and eat fruits and high fiberous foods. These will help with the jaundice and alleviate some of your symptoms. Additionally, I would suggest avoiding processed and sugary foods, as well as caffeine and alcohol. 
+
+P: Can you also prescribe some medication for me?
+
+D: At this point, medication is not necessary. It is more important that you focus on lifestyle changes to help manage your symptoms. However, if your symptoms worsen or do not improve within the next few days, please come back for a follow-up appointment. In the meantime, I suggest you get plenty of rest and take ibuprofen to reduce your fever.
+
+P: Okay, I understand. Thank you for your help.
+
+D: You're welcome. Please remember to drink plenty of fluids, eat well, and take the milk thistle. Avoid processed and sugary foods, caffeine, and alcohol. Get plenty of rest and take ibuprofen to reduce your fever. If you have any further questions or concerns, please don't hesitate to reach out. ","Fatigue, nausea, throwing up, difficulty sleeping and eating",0,"Fatigue, nausea, throwing up, difficulty sleeping and eating"
+What precautions did the doctor advise?," D: Good morning Mr. Ashburn, how can I help you today?
+
+P: Hi, I've been feeling really unwell lately. I've had abdominal pain, vomiting, and a high fever for the past few days.
+
+D: I see from your medical records that you were diagnosed with jaundice. Can you tell me more about your symptoms?
+
+P: Yes, the abdominal pain and nausea have been really bad. I've been throwing up a lot, and I feel really weak. I have also been having difficulty sleeping and eating.
+
+D: Thank you for letting me know. Based on your symptoms, I would advise you to drink plenty of water, consume milk thistle, and eat fruits and high fiberous foods. These will help with the jaundice and alleviate some of your symptoms. Additionally, I would suggest avoiding processed and sugary foods, as well as caffeine and alcohol. 
+
+P: Can you also prescribe some medication for me?
+
+D: At this point, medication is not necessary. It is more important that you focus on lifestyle changes to help manage your symptoms. However, if your symptoms worsen or do not improve within the next few days, please come back for a follow-up appointment. In the meantime, I suggest you get plenty of rest and take ibuprofen to reduce your fever.
+
+P: Okay, I understand. Thank you for your help.
+
+D: You're welcome. Please remember to drink plenty of fluids, eat well, and take the milk thistle. Avoid processed and sugary foods, caffeine, and alcohol. Get plenty of rest and take ibuprofen to reduce your fever. If you have any further questions or concerns, please don't hesitate to reach out. ","Drink water, milk thistlee, eat frutits, avoid alcohol, avoid processed food",0,"Drink water, milk thistlee, eat frutits, avoid alcohol, avoid processed food"
+What drug did the doctor prescribe?," D: Good morning Mr. Ashburn, how can I help you today?
+
+P: Hi, I've been feeling really unwell lately. I've had abdominal pain, vomiting, and a high fever for the past few days.
+
+D: I see from your medical records that you were diagnosed with jaundice. Can you tell me more about your symptoms?
+
+P: Yes, the abdominal pain and nausea have been really bad. I've been throwing up a lot, and I feel really weak. I have also been having difficulty sleeping and eating.
+
+D: Thank you for letting me know. Based on your symptoms, I would advise you to drink plenty of water, consume milk thistle, and eat fruits and high fiberous foods. These will help with the jaundice and alleviate some of your symptoms. Additionally, I would suggest avoiding processed and sugary foods, as well as caffeine and alcohol. 
+
+P: Can you also prescribe some medication for me?
+
+D: At this point, medication is not necessary. It is more important that you focus on lifestyle changes to help manage your symptoms. However, if your symptoms worsen or do not improve within the next few days, please come back for a follow-up appointment. In the meantime, I suggest you get plenty of rest and take ibuprofen to reduce your fever.
+
+P: Okay, I understand. Thank you for your help.
+
+D: You're welcome. Please remember to drink plenty of fluids, eat well, and take the milk thistle. Avoid processed and sugary foods, caffeine, and alcohol. Get plenty of rest and take ibuprofen to reduce your fever. If you have any further questions or concerns, please don't hesitate to reach out. ",None,0,None
+What is the patient's name?," D: Good morning, Mrs. Godwin. I understand that you are dealing with some symptoms. Can you tell me more about how you feel?
+
+P: Yes, doctor. I was feeling really sick. I started vomiting and it was difficult to catch my breath. Then I felt a sharp pain in my chest. This is really scary.
+
+D: I see. Depending on your symptoms, we would prefer that we take this seriously and take you to the hospital immediately.
+
+P: Okay, doctor. Should I take any precautions before going?
+
+D: At this moment, there are no precautions you need to take. We must take you to the hospital immediately so that they can evaluate your condition and provide the required treatment.
+
+P: Okay, I understand. Thank you for your brotherhood, doctor.
+
+D: That's all right, Mrs. Godwin. Please remember to tell the staff at the hospital that you may be suffering from cardiac arrest so that they can raise your priority. Good luck and relax. ",Godwin,0,Godwin
+What is the patient's age?," D: Good morning, Mrs. Godwin. I understand that you are dealing with some symptoms. Can you tell me more about how you feel?
+
+P: Yes, doctor. I was feeling really sick. I started vomiting and it was difficult to catch my breath. Then I felt a sharp pain in my chest. This is really scary.
+
+D: I see. Depending on your symptoms, we would prefer that we take this seriously and take you to the hospital immediately.
+
+P: Okay, doctor. Should I take any precautions before going?
+
+D: At this moment, there are no precautions you need to take. We must take you to the hospital immediately so that they can evaluate your condition and provide the required treatment.
+
+P: Okay, I understand. Thank you for your brotherhood, doctor.
+
+D: That's all right, Mrs. Godwin. Please remember to tell the staff at the hospital that you may be suffering from cardiac arrest so that they can raise your priority. Good luck and relax. ",None,0,None
+What is the patient's condition?," D: Good morning, Mrs. Godwin. I understand that you are dealing with some symptoms. Can you tell me more about how you feel?
+
+P: Yes, doctor. I was feeling really sick. I started vomiting and it was difficult to catch my breath. Then I felt a sharp pain in my chest. This is really scary.
+
+D: I see. Depending on your symptoms, we would prefer that we take this seriously and take you to the hospital immediately.
+
+P: Okay, doctor. Should I take any precautions before going?
+
+D: At this moment, there are no precautions you need to take. We must take you to the hospital immediately so that they can evaluate your condition and provide the required treatment.
+
+P: Okay, I understand. Thank you for your brotherhood, doctor.
+
+D: That's all right, Mrs. Godwin. Please remember to tell the staff at the hospital that you may be suffering from cardiac arrest so that they can raise your priority. Good luck and relax. ",None,0,None
+What symptoms is the patient experiencing?," D: Good morning, Mrs. Godwin. I understand that you are dealing with some symptoms. Can you tell me more about how you feel?
+
+P: Yes, doctor. I was feeling really sick. I started vomiting and it was difficult to catch my breath. Then I felt a sharp pain in my chest. This is really scary.
+
+D: I see. Depending on your symptoms, we would prefer that we take this seriously and take you to the hospital immediately.
+
+P: Okay, doctor. Should I take any precautions before going?
+
+D: At this moment, there are no precautions you need to take. We must take you to the hospital immediately so that they can evaluate your condition and provide the required treatment.
+
+P: Okay, I understand. Thank you for your brotherhood, doctor.
+
+D: That's all right, Mrs. Godwin. Please remember to tell the staff at the hospital that you may be suffering from cardiac arrest so that they can raise your priority. Good luck and relax. ",Chest pain,0,Chest pain
+What precautions did the doctor advise?," D: Good morning, Mrs. Godwin. I understand that you are dealing with some symptoms. Can you tell me more about how you feel?
+
+P: Yes, doctor. I was feeling really sick. I started vomiting and it was difficult to catch my breath. Then I felt a sharp pain in my chest. This is really scary.
+
+D: I see. Depending on your symptoms, we would prefer that we take this seriously and take you to the hospital immediately.
+
+P: Okay, doctor. Should I take any precautions before going?
+
+D: At this moment, there are no precautions you need to take. We must take you to the hospital immediately so that they can evaluate your condition and provide the required treatment.
+
+P: Okay, I understand. Thank you for your brotherhood, doctor.
+
+D: That's all right, Mrs. Godwin. Please remember to tell the staff at the hospital that you may be suffering from cardiac arrest so that they can raise your priority. Good luck and relax. ",None,0,None
+What drug did the doctor prescribe?," D: Good morning, Mrs. Godwin. I understand that you are dealing with some symptoms. Can you tell me more about how you feel?
+
+P: Yes, doctor. I was feeling really sick. I started vomiting and it was difficult to catch my breath. Then I felt a sharp pain in my chest. This is really scary.
+
+D: I see. Depending on your symptoms, we would prefer that we take this seriously and take you to the hospital immediately.
+
+P: Okay, doctor. Should I take any precautions before going?
+
+D: At this moment, there are no precautions you need to take. We must take you to the hospital immediately so that they can evaluate your condition and provide the required treatment.
+
+P: Okay, I understand. Thank you for your brotherhood, doctor.
+
+D: That's all right, Mrs. Godwin. Please remember to tell the staff at the hospital that you may be suffering from cardiac arrest so that they can raise your priority. Good luck and relax. ",None,0,None
+What is the patient's name?," D: Good morning Earl, how are you feeling today?
+P: I've been feeling really weak and tired lately.
+D: I see. Have you experienced any other symptoms recently?
+P: Yes, I've been running a high fever and I've lost a lot of weight.
+D: Based on your symptoms and your medical history, it seems like you may have contracted AIDS.
+P: AIDS? I thought that was a condition that only affected younger people.
+D: Unfortunately, it can affect people of all ages. In your case, it's important that you avoid open cuts and wear PPE if possible to prevent the spread of the virus.
+P: What else can I do to manage my symptoms?
+D: It's also important that you follow up with your doctor regularly to monitor your condition and receive any necessary treatment.
+P: Okay, I'll do that. Is there any medication you can prescribe to help me feel better?
+D: At this point, medication may not be able to cure your condition, but it can help manage your symptoms. I will refer you to a specialist who can provide more information and support.
+P: Thank you for your help, doctor. ",Earl,0,Earl
+What is the patient's age?," D: Good morning Earl, how are you feeling today?
+P: I've been feeling really weak and tired lately.
+D: I see. Have you experienced any other symptoms recently?
+P: Yes, I've been running a high fever and I've lost a lot of weight.
+D: Based on your symptoms and your medical history, it seems like you may have contracted AIDS.
+P: AIDS? I thought that was a condition that only affected younger people.
+D: Unfortunately, it can affect people of all ages. In your case, it's important that you avoid open cuts and wear PPE if possible to prevent the spread of the virus.
+P: What else can I do to manage my symptoms?
+D: It's also important that you follow up with your doctor regularly to monitor your condition and receive any necessary treatment.
+P: Okay, I'll do that. Is there any medication you can prescribe to help me feel better?
+D: At this point, medication may not be able to cure your condition, but it can help manage your symptoms. I will refer you to a specialist who can provide more information and support.
+P: Thank you for your help, doctor. ",None,0,None
+What is the patient's condition?," D: Good morning Earl, how are you feeling today?
+P: I've been feeling really weak and tired lately.
+D: I see. Have you experienced any other symptoms recently?
+P: Yes, I've been running a high fever and I've lost a lot of weight.
+D: Based on your symptoms and your medical history, it seems like you may have contracted AIDS.
+P: AIDS? I thought that was a condition that only affected younger people.
+D: Unfortunately, it can affect people of all ages. In your case, it's important that you avoid open cuts and wear PPE if possible to prevent the spread of the virus.
+P: What else can I do to manage my symptoms?
+D: It's also important that you follow up with your doctor regularly to monitor your condition and receive any necessary treatment.
+P: Okay, I'll do that. Is there any medication you can prescribe to help me feel better?
+D: At this point, medication may not be able to cure your condition, but it can help manage your symptoms. I will refer you to a specialist who can provide more information and support.
+P: Thank you for your help, doctor. ",AIDS,0,AIDS
+What symptoms is the patient experiencing?," D: Good morning Earl, how are you feeling today?
+P: I've been feeling really weak and tired lately.
+D: I see. Have you experienced any other symptoms recently?
+P: Yes, I've been running a high fever and I've lost a lot of weight.
+D: Based on your symptoms and your medical history, it seems like you may have contracted AIDS.
+P: AIDS? I thought that was a condition that only affected younger people.
+D: Unfortunately, it can affect people of all ages. In your case, it's important that you avoid open cuts and wear PPE if possible to prevent the spread of the virus.
+P: What else can I do to manage my symptoms?
+D: It's also important that you follow up with your doctor regularly to monitor your condition and receive any necessary treatment.
+P: Okay, I'll do that. Is there any medication you can prescribe to help me feel better?
+D: At this point, medication may not be able to cure your condition, but it can help manage your symptoms. I will refer you to a specialist who can provide more information and support.
+P: Thank you for your help, doctor. ",Weak and tired,0,Weak and tired
+What precautions did the doctor advise?," D: Good morning Earl, how are you feeling today?
+P: I've been feeling really weak and tired lately.
+D: I see. Have you experienced any other symptoms recently?
+P: Yes, I've been running a high fever and I've lost a lot of weight.
+D: Based on your symptoms and your medical history, it seems like you may have contracted AIDS.
+P: AIDS? I thought that was a condition that only affected younger people.
+D: Unfortunately, it can affect people of all ages. In your case, it's important that you avoid open cuts and wear PPE if possible to prevent the spread of the virus.
+P: What else can I do to manage my symptoms?
+D: It's also important that you follow up with your doctor regularly to monitor your condition and receive any necessary treatment.
+P: Okay, I'll do that. Is there any medication you can prescribe to help me feel better?
+D: At this point, medication may not be able to cure your condition, but it can help manage your symptoms. I will refer you to a specialist who can provide more information and support.
+P: Thank you for your help, doctor. ",Follow up with doctor to manage condition,0,Follow up with doctor to manage condition
+What drug did the doctor prescribe?," D: Good morning Earl, how are you feeling today?
+P: I've been feeling really weak and tired lately.
+D: I see. Have you experienced any other symptoms recently?
+P: Yes, I've been running a high fever and I've lost a lot of weight.
+D: Based on your symptoms and your medical history, it seems like you may have contracted AIDS.
+P: AIDS? I thought that was a condition that only affected younger people.
+D: Unfortunately, it can affect people of all ages. In your case, it's important that you avoid open cuts and wear PPE if possible to prevent the spread of the virus.
+P: What else can I do to manage my symptoms?
+D: It's also important that you follow up with your doctor regularly to monitor your condition and receive any necessary treatment.
+P: Okay, I'll do that. Is there any medication you can prescribe to help me feel better?
+D: At this point, medication may not be able to cure your condition, but it can help manage your symptoms. I will refer you to a specialist who can provide more information and support.
+P: Thank you for your help, doctor. ",Medication,0,Medication
+What is the patient's name?," D: Good afternoon, Mr. Goodson. I understand you have a fungal infection. Can you tell me more about your symptoms?
+
+P: Well, Doctor, I've been having these skin eruptions that are nodular in nature and they're really itchy. I also have these discolored patches on my skin.
+
+D: I see. And when did you first notice these symptoms?
+
+P: It's been about a week now. It started as a rash and got progressively worse.
+
+D: Based on your symptoms, it does appear that you have a fungal infection. To help treat it, I recommend bathing twice a day, using either detol or neem in your bathing water, keeping the infected area dry, and using clean cloths. As for medication, I don't think it's necessary at this point.
+
+P: Thank you, Doctor. I appreciate your advice. Is there anything else I should be doing?
+
+D: Just make sure to keep the infected area clean and dry, and avoid sharing towels or clothing with others. If your symptoms worsen or don't improve after a week, please come back for a follow-up appointment.
+
+P: Got it. Thank you again for your help.
+
+D: You're welcome, Mr. Goodson. Feel free to reach out if you have any other questions or concerns. ",Goodson,0,Goodson
+What is the patient's age?," D: Good afternoon, Mr. Goodson. I understand you have a fungal infection. Can you tell me more about your symptoms?
+
+P: Well, Doctor, I've been having these skin eruptions that are nodular in nature and they're really itchy. I also have these discolored patches on my skin.
+
+D: I see. And when did you first notice these symptoms?
+
+P: It's been about a week now. It started as a rash and got progressively worse.
+
+D: Based on your symptoms, it does appear that you have a fungal infection. To help treat it, I recommend bathing twice a day, using either detol or neem in your bathing water, keeping the infected area dry, and using clean cloths. As for medication, I don't think it's necessary at this point.
+
+P: Thank you, Doctor. I appreciate your advice. Is there anything else I should be doing?
+
+D: Just make sure to keep the infected area clean and dry, and avoid sharing towels or clothing with others. If your symptoms worsen or don't improve after a week, please come back for a follow-up appointment.
+
+P: Got it. Thank you again for your help.
+
+D: You're welcome, Mr. Goodson. Feel free to reach out if you have any other questions or concerns. ",None,0,None
+What is the patient's condition?," D: Good afternoon, Mr. Goodson. I understand you have a fungal infection. Can you tell me more about your symptoms?
+
+P: Well, Doctor, I've been having these skin eruptions that are nodular in nature and they're really itchy. I also have these discolored patches on my skin.
+
+D: I see. And when did you first notice these symptoms?
+
+P: It's been about a week now. It started as a rash and got progressively worse.
+
+D: Based on your symptoms, it does appear that you have a fungal infection. To help treat it, I recommend bathing twice a day, using either detol or neem in your bathing water, keeping the infected area dry, and using clean cloths. As for medication, I don't think it's necessary at this point.
+
+P: Thank you, Doctor. I appreciate your advice. Is there anything else I should be doing?
+
+D: Just make sure to keep the infected area clean and dry, and avoid sharing towels or clothing with others. If your symptoms worsen or don't improve after a week, please come back for a follow-up appointment.
+
+P: Got it. Thank you again for your help.
+
+D: You're welcome, Mr. Goodson. Feel free to reach out if you have any other questions or concerns. ",Fungal infection,0,Fungal infection
+What symptoms is the patient experiencing?," D: Good afternoon, Mr. Goodson. I understand you have a fungal infection. Can you tell me more about your symptoms?
+
+P: Well, Doctor, I've been having these skin eruptions that are nodular in nature and they're really itchy. I also have these discolored patches on my skin.
+
+D: I see. And when did you first notice these symptoms?
+
+P: It's been about a week now. It started as a rash and got progressively worse.
+
+D: Based on your symptoms, it does appear that you have a fungal infection. To help treat it, I recommend bathing twice a day, using either detol or neem in your bathing water, keeping the infected area dry, and using clean cloths. As for medication, I don't think it's necessary at this point.
+
+P: Thank you, Doctor. I appreciate your advice. Is there anything else I should be doing?
+
+D: Just make sure to keep the infected area clean and dry, and avoid sharing towels or clothing with others. If your symptoms worsen or don't improve after a week, please come back for a follow-up appointment.
+
+P: Got it. Thank you again for your help.
+
+D: You're welcome, Mr. Goodson. Feel free to reach out if you have any other questions or concerns. ","Rash, Skin eruptions",0,"Rash, Skin eruptions"
+What precautions did the doctor advise?," D: Good afternoon, Mr. Goodson. I understand you have a fungal infection. Can you tell me more about your symptoms?
+
+P: Well, Doctor, I've been having these skin eruptions that are nodular in nature and they're really itchy. I also have these discolored patches on my skin.
+
+D: I see. And when did you first notice these symptoms?
+
+P: It's been about a week now. It started as a rash and got progressively worse.
+
+D: Based on your symptoms, it does appear that you have a fungal infection. To help treat it, I recommend bathing twice a day, using either detol or neem in your bathing water, keeping the infected area dry, and using clean cloths. As for medication, I don't think it's necessary at this point.
+
+P: Thank you, Doctor. I appreciate your advice. Is there anything else I should be doing?
+
+D: Just make sure to keep the infected area clean and dry, and avoid sharing towels or clothing with others. If your symptoms worsen or don't improve after a week, please come back for a follow-up appointment.
+
+P: Got it. Thank you again for your help.
+
+D: You're welcome, Mr. Goodson. Feel free to reach out if you have any other questions or concerns. ","Keep infected area clean and dry, avoid sharing towels or clothing with others",0,"Keep infected area clean and dry, avoid sharing towels or clothing with others"
+What drug did the doctor prescribe?," D: Good afternoon, Mr. Goodson. I understand you have a fungal infection. Can you tell me more about your symptoms?
+
+P: Well, Doctor, I've been having these skin eruptions that are nodular in nature and they're really itchy. I also have these discolored patches on my skin.
+
+D: I see. And when did you first notice these symptoms?
+
+P: It's been about a week now. It started as a rash and got progressively worse.
+
+D: Based on your symptoms, it does appear that you have a fungal infection. To help treat it, I recommend bathing twice a day, using either detol or neem in your bathing water, keeping the infected area dry, and using clean cloths. As for medication, I don't think it's necessary at this point.
+
+P: Thank you, Doctor. I appreciate your advice. Is there anything else I should be doing?
+
+D: Just make sure to keep the infected area clean and dry, and avoid sharing towels or clothing with others. If your symptoms worsen or don't improve after a week, please come back for a follow-up appointment.
+
+P: Got it. Thank you again for your help.
+
+D: You're welcome, Mr. Goodson. Feel free to reach out if you have any other questions or concerns. ",Detol or neem,0,Detol or neem
+What is the patient's name?," D: Gooood morning, Mr. Troilo. I'm Dr. Smith, your doctor. How are you feeling today?
+P: Good morning, Doctor. I feel very weak and have a lot of pain in my stomach.
+D: I see. Can you tell me about your symtoms?
+P: Yes, I have a yellowish colour to my skin and my stomach is really hurtin. I also have a history of alcohool consumption. 
+D: I understand. Based on your symtoms and medical history, I believe you have alcohoooolic hepatitis. 
+P: Alcohoolic hepatitis? I didn't knoow that was a thing. 
+D: Yess, it's a condition that occurs when the liver becomes inflamed due to excessive alcohool consumption. 
+P: I know I've been drinking a lot lately, but I didn't realize it was causing problems. 
+D: It's important that you stop drinking alcohool immediately to allow your liver to heal. Additionally, I'm going to prescribe some medication to help manage your symtoms and I'd like you to come back for a follow-up appointment in a week. 
+P: I'll do my best to stop drinking. And thank you for the medication and follow-up appointment. 
+D: You're welcome, Mr. Troilo. It's important that you take care of yourself and make some lifestyle changes for your health. ",Mr. Troilo,0,Mr. Troilo
+What is the patient's age?," D: Gooood morning, Mr. Troilo. I'm Dr. Smith, your doctor. How are you feeling today?
+P: Good morning, Doctor. I feel very weak and have a lot of pain in my stomach.
+D: I see. Can you tell me about your symtoms?
+P: Yes, I have a yellowish colour to my skin and my stomach is really hurtin. I also have a history of alcohool consumption. 
+D: I understand. Based on your symtoms and medical history, I believe you have alcohoooolic hepatitis. 
+P: Alcohoolic hepatitis? I didn't knoow that was a thing. 
+D: Yess, it's a condition that occurs when the liver becomes inflamed due to excessive alcohool consumption. 
+P: I know I've been drinking a lot lately, but I didn't realize it was causing problems. 
+D: It's important that you stop drinking alcohool immediately to allow your liver to heal. Additionally, I'm going to prescribe some medication to help manage your symtoms and I'd like you to come back for a follow-up appointment in a week. 
+P: I'll do my best to stop drinking. And thank you for the medication and follow-up appointment. 
+D: You're welcome, Mr. Troilo. It's important that you take care of yourself and make some lifestyle changes for your health. ",None,0,None
+What is the patient's condition?," D: Gooood morning, Mr. Troilo. I'm Dr. Smith, your doctor. How are you feeling today?
+P: Good morning, Doctor. I feel very weak and have a lot of pain in my stomach.
+D: I see. Can you tell me about your symtoms?
+P: Yes, I have a yellowish colour to my skin and my stomach is really hurtin. I also have a history of alcohool consumption. 
+D: I understand. Based on your symtoms and medical history, I believe you have alcohoooolic hepatitis. 
+P: Alcohoolic hepatitis? I didn't knoow that was a thing. 
+D: Yess, it's a condition that occurs when the liver becomes inflamed due to excessive alcohool consumption. 
+P: I know I've been drinking a lot lately, but I didn't realize it was causing problems. 
+D: It's important that you stop drinking alcohool immediately to allow your liver to heal. Additionally, I'm going to prescribe some medication to help manage your symtoms and I'd like you to come back for a follow-up appointment in a week. 
+P: I'll do my best to stop drinking. And thank you for the medication and follow-up appointment. 
+D: You're welcome, Mr. Troilo. It's important that you take care of yourself and make some lifestyle changes for your health. ",Alcoholic hepatits,0,Alcoholic hepatits
+What symptoms is the patient experiencing?," D: Gooood morning, Mr. Troilo. I'm Dr. Smith, your doctor. How are you feeling today?
+P: Good morning, Doctor. I feel very weak and have a lot of pain in my stomach.
+D: I see. Can you tell me about your symtoms?
+P: Yes, I have a yellowish colour to my skin and my stomach is really hurtin. I also have a history of alcohool consumption. 
+D: I understand. Based on your symtoms and medical history, I believe you have alcohoooolic hepatitis. 
+P: Alcohoolic hepatitis? I didn't knoow that was a thing. 
+D: Yess, it's a condition that occurs when the liver becomes inflamed due to excessive alcohool consumption. 
+P: I know I've been drinking a lot lately, but I didn't realize it was causing problems. 
+D: It's important that you stop drinking alcohool immediately to allow your liver to heal. Additionally, I'm going to prescribe some medication to help manage your symtoms and I'd like you to come back for a follow-up appointment in a week. 
+P: I'll do my best to stop drinking. And thank you for the medication and follow-up appointment. 
+D: You're welcome, Mr. Troilo. It's important that you take care of yourself and make some lifestyle changes for your health. ",Stomach pain,0,Stomach pain
+What precautions did the doctor advise?," D: Gooood morning, Mr. Troilo. I'm Dr. Smith, your doctor. How are you feeling today?
+P: Good morning, Doctor. I feel very weak and have a lot of pain in my stomach.
+D: I see. Can you tell me about your symtoms?
+P: Yes, I have a yellowish colour to my skin and my stomach is really hurtin. I also have a history of alcohool consumption. 
+D: I understand. Based on your symtoms and medical history, I believe you have alcohoooolic hepatitis. 
+P: Alcohoolic hepatitis? I didn't knoow that was a thing. 
+D: Yess, it's a condition that occurs when the liver becomes inflamed due to excessive alcohool consumption. 
+P: I know I've been drinking a lot lately, but I didn't realize it was causing problems. 
+D: It's important that you stop drinking alcohool immediately to allow your liver to heal. Additionally, I'm going to prescribe some medication to help manage your symtoms and I'd like you to come back for a follow-up appointment in a week. 
+P: I'll do my best to stop drinking. And thank you for the medication and follow-up appointment. 
+D: You're welcome, Mr. Troilo. It's important that you take care of yourself and make some lifestyle changes for your health. ",Stop drinking alcohol,0,Stop drinking alcohol
+What drug did the doctor prescribe?," D: Gooood morning, Mr. Troilo. I'm Dr. Smith, your doctor. How are you feeling today?
+P: Good morning, Doctor. I feel very weak and have a lot of pain in my stomach.
+D: I see. Can you tell me about your symtoms?
+P: Yes, I have a yellowish colour to my skin and my stomach is really hurtin. I also have a history of alcohool consumption. 
+D: I understand. Based on your symtoms and medical history, I believe you have alcohoooolic hepatitis. 
+P: Alcohoolic hepatitis? I didn't knoow that was a thing. 
+D: Yess, it's a condition that occurs when the liver becomes inflamed due to excessive alcohool consumption. 
+P: I know I've been drinking a lot lately, but I didn't realize it was causing problems. 
+D: It's important that you stop drinking alcohool immediately to allow your liver to heal. Additionally, I'm going to prescribe some medication to help manage your symtoms and I'd like you to come back for a follow-up appointment in a week. 
+P: I'll do my best to stop drinking. And thank you for the medication and follow-up appointment. 
+D: You're welcome, Mr. Troilo. It's important that you take care of yourself and make some lifestyle changes for your health. ",None,0,None
+What is the patient's name?," D: Hi John, I understand that you have been experiencing chills, continuous sneezing, and shivering. Based on your symptoms, I believe you may have an allergy. Is that correct?
+
+P: Yes, Doctor. I have been experiencing these symptoms for the past few days, and they are really bothering me.
+
+D: Have you had any allergies in the past, John?
+
+P: Yes, I am allergic to pollen, but I don't think that's what this is.
+
+D: Based on your symptoms, it seems like you could have a reaction to something in your environment. To manage your symptoms, you can try taking over-the-counter antihistamines, which should help with the sneezing and itching. Make sure to drink plenty of fluids to stay hydrated. Also, try to avoid any triggers that may be causing your allergic reaction.
+
+P: Thank you, Doctor. I will try those tips and see if they help.
+
+D: You're welcome, John. If your symptoms don't improve or worsen, please don't hesitate to come back for a follow-up appointment. ",John,0,John
+What is the patient's age?," D: Hi John, I understand that you have been experiencing chills, continuous sneezing, and shivering. Based on your symptoms, I believe you may have an allergy. Is that correct?
+
+P: Yes, Doctor. I have been experiencing these symptoms for the past few days, and they are really bothering me.
+
+D: Have you had any allergies in the past, John?
+
+P: Yes, I am allergic to pollen, but I don't think that's what this is.
+
+D: Based on your symptoms, it seems like you could have a reaction to something in your environment. To manage your symptoms, you can try taking over-the-counter antihistamines, which should help with the sneezing and itching. Make sure to drink plenty of fluids to stay hydrated. Also, try to avoid any triggers that may be causing your allergic reaction.
+
+P: Thank you, Doctor. I will try those tips and see if they help.
+
+D: You're welcome, John. If your symptoms don't improve or worsen, please don't hesitate to come back for a follow-up appointment. ",None,0,None
+What is the patient's condition?," D: Hi John, I understand that you have been experiencing chills, continuous sneezing, and shivering. Based on your symptoms, I believe you may have an allergy. Is that correct?
+
+P: Yes, Doctor. I have been experiencing these symptoms for the past few days, and they are really bothering me.
+
+D: Have you had any allergies in the past, John?
+
+P: Yes, I am allergic to pollen, but I don't think that's what this is.
+
+D: Based on your symptoms, it seems like you could have a reaction to something in your environment. To manage your symptoms, you can try taking over-the-counter antihistamines, which should help with the sneezing and itching. Make sure to drink plenty of fluids to stay hydrated. Also, try to avoid any triggers that may be causing your allergic reaction.
+
+P: Thank you, Doctor. I will try those tips and see if they help.
+
+D: You're welcome, John. If your symptoms don't improve or worsen, please don't hesitate to come back for a follow-up appointment. ",Allergies,0,Allergies
+What symptoms is the patient experiencing?," D: Hi John, I understand that you have been experiencing chills, continuous sneezing, and shivering. Based on your symptoms, I believe you may have an allergy. Is that correct?
+
+P: Yes, Doctor. I have been experiencing these symptoms for the past few days, and they are really bothering me.
+
+D: Have you had any allergies in the past, John?
+
+P: Yes, I am allergic to pollen, but I don't think that's what this is.
+
+D: Based on your symptoms, it seems like you could have a reaction to something in your environment. To manage your symptoms, you can try taking over-the-counter antihistamines, which should help with the sneezing and itching. Make sure to drink plenty of fluids to stay hydrated. Also, try to avoid any triggers that may be causing your allergic reaction.
+
+P: Thank you, Doctor. I will try those tips and see if they help.
+
+D: You're welcome, John. If your symptoms don't improve or worsen, please don't hesitate to come back for a follow-up appointment. ",Chills continuous sneezing shivering,0,Chills continuous sneezing shivering
+What precautions did the doctor advise?," D: Hi John, I understand that you have been experiencing chills, continuous sneezing, and shivering. Based on your symptoms, I believe you may have an allergy. Is that correct?
+
+P: Yes, Doctor. I have been experiencing these symptoms for the past few days, and they are really bothering me.
+
+D: Have you had any allergies in the past, John?
+
+P: Yes, I am allergic to pollen, but I don't think that's what this is.
+
+D: Based on your symptoms, it seems like you could have a reaction to something in your environment. To manage your symptoms, you can try taking over-the-counter antihistamines, which should help with the sneezing and itching. Make sure to drink plenty of fluids to stay hydrated. Also, try to avoid any triggers that may be causing your allergic reaction.
+
+P: Thank you, Doctor. I will try those tips and see if they help.
+
+D: You're welcome, John. If your symptoms don't improve or worsen, please don't hesitate to come back for a follow-up appointment. ",Drink fluids and stay hydrated,0,Drink fluids and stay hydrated
+What drug did the doctor prescribe?," D: Hi John, I understand that you have been experiencing chills, continuous sneezing, and shivering. Based on your symptoms, I believe you may have an allergy. Is that correct?
+
+P: Yes, Doctor. I have been experiencing these symptoms for the past few days, and they are really bothering me.
+
+D: Have you had any allergies in the past, John?
+
+P: Yes, I am allergic to pollen, but I don't think that's what this is.
+
+D: Based on your symptoms, it seems like you could have a reaction to something in your environment. To manage your symptoms, you can try taking over-the-counter antihistamines, which should help with the sneezing and itching. Make sure to drink plenty of fluids to stay hydrated. Also, try to avoid any triggers that may be causing your allergic reaction.
+
+P: Thank you, Doctor. I will try those tips and see if they help.
+
+D: You're welcome, John. If your symptoms don't improve or worsen, please don't hesitate to come back for a follow-up appointment. ",Antihistamines,0,Antihistamines
+What is the patient's name?," During the visit, I, the doctor, examined Nicholas Farrell, a 60-year-old patient who was suffering from dischromic patches, itching, and nodal skin eruptions. After conducting a thorough examination, I determined that the patient was suffering from a fungal infection. Based on the severity of the infection, I advised Nicholas to bathe twice a day, use detol or neem in the bathing water, keep the infected area dry, and use clean cloths. I did not prescribe any medication for the patient, as the precautions I advised should be sufficient for him to recover from the infection. ",Nicholas Farrell,0,Nicholas Farrell
+What is the patient's age?," During the visit, I, the doctor, examined Nicholas Farrell, a 60-year-old patient who was suffering from dischromic patches, itching, and nodal skin eruptions. After conducting a thorough examination, I determined that the patient was suffering from a fungal infection. Based on the severity of the infection, I advised Nicholas to bathe twice a day, use detol or neem in the bathing water, keep the infected area dry, and use clean cloths. I did not prescribe any medication for the patient, as the precautions I advised should be sufficient for him to recover from the infection. ",60,0,60
+What is the patient's condition?," During the visit, I, the doctor, examined Nicholas Farrell, a 60-year-old patient who was suffering from dischromic patches, itching, and nodal skin eruptions. After conducting a thorough examination, I determined that the patient was suffering from a fungal infection. Based on the severity of the infection, I advised Nicholas to bathe twice a day, use detol or neem in the bathing water, keep the infected area dry, and use clean cloths. I did not prescribe any medication for the patient, as the precautions I advised should be sufficient for him to recover from the infection. ",Fungal infection,0,Fungal infection
+What symptoms is the patient experiencing?," During the visit, I, the doctor, examined Nicholas Farrell, a 60-year-old patient who was suffering from dischromic patches, itching, and nodal skin eruptions. After conducting a thorough examination, I determined that the patient was suffering from a fungal infection. Based on the severity of the infection, I advised Nicholas to bathe twice a day, use detol or neem in the bathing water, keep the infected area dry, and use clean cloths. I did not prescribe any medication for the patient, as the precautions I advised should be sufficient for him to recover from the infection. ","Patches, itching, skin eruptions",0,"Patches, itching, skin eruptions"
+What precautions did the doctor advise?," During the visit, I, the doctor, examined Nicholas Farrell, a 60-year-old patient who was suffering from dischromic patches, itching, and nodal skin eruptions. After conducting a thorough examination, I determined that the patient was suffering from a fungal infection. Based on the severity of the infection, I advised Nicholas to bathe twice a day, use detol or neem in the bathing water, keep the infected area dry, and use clean cloths. I did not prescribe any medication for the patient, as the precautions I advised should be sufficient for him to recover from the infection. ",Avoid sharing personal items with others,0,Avoid sharing personal items with others
+What drug did the doctor prescribe?," During the visit, I, the doctor, examined Nicholas Farrell, a 60-year-old patient who was suffering from dischromic patches, itching, and nodal skin eruptions. After conducting a thorough examination, I determined that the patient was suffering from a fungal infection. Based on the severity of the infection, I advised Nicholas to bathe twice a day, use detol or neem in the bathing water, keep the infected area dry, and use clean cloths. I did not prescribe any medication for the patient, as the precautions I advised should be sufficient for him to recover from the infection. ",Detol or Neem,0,Detol or Neem
+What is the patient's name?," During the visit, I examined William Brown, who is 81 years old and suffering from malaria. His symptoms include muscle pain, headache, and nausea. Upon examination, I confirmed that he has malaria. I advised him to consult the nearest hospital immediately and take necessary precautions such as avoiding oily food, non-veg food, and keeping mosquitoes out. Since his condition is severe, I did not prescribe any medication and advised him to follow up with a specialist for further treatment. ",William Brown,0,William Brown
+What is the patient's age?," During the visit, I examined William Brown, who is 81 years old and suffering from malaria. His symptoms include muscle pain, headache, and nausea. Upon examination, I confirmed that he has malaria. I advised him to consult the nearest hospital immediately and take necessary precautions such as avoiding oily food, non-veg food, and keeping mosquitoes out. Since his condition is severe, I did not prescribe any medication and advised him to follow up with a specialist for further treatment. ",81,0,81
+What is the patient's condition?," During the visit, I examined William Brown, who is 81 years old and suffering from malaria. His symptoms include muscle pain, headache, and nausea. Upon examination, I confirmed that he has malaria. I advised him to consult the nearest hospital immediately and take necessary precautions such as avoiding oily food, non-veg food, and keeping mosquitoes out. Since his condition is severe, I did not prescribe any medication and advised him to follow up with a specialist for further treatment. ",Malaria,0,Malaria
+What symptoms is the patient experiencing?," During the visit, I examined William Brown, who is 81 years old and suffering from malaria. His symptoms include muscle pain, headache, and nausea. Upon examination, I confirmed that he has malaria. I advised him to consult the nearest hospital immediately and take necessary precautions such as avoiding oily food, non-veg food, and keeping mosquitoes out. Since his condition is severe, I did not prescribe any medication and advised him to follow up with a specialist for further treatment. ",Muscle pain headache nausea,0,Muscle pain headache nausea
+What precautions did the doctor advise?," During the visit, I examined William Brown, who is 81 years old and suffering from malaria. His symptoms include muscle pain, headache, and nausea. Upon examination, I confirmed that he has malaria. I advised him to consult the nearest hospital immediately and take necessary precautions such as avoiding oily food, non-veg food, and keeping mosquitoes out. Since his condition is severe, I did not prescribe any medication and advised him to follow up with a specialist for further treatment. ","Avoid oily food, avoid non-veg food, and keep mosquitos out",0,"Avoid oily food, avoid non-veg food, and keep mosquitos out"
+What drug did the doctor prescribe?," During the visit, I examined William Brown, who is 81 years old and suffering from malaria. His symptoms include muscle pain, headache, and nausea. Upon examination, I confirmed that he has malaria. I advised him to consult the nearest hospital immediately and take necessary precautions such as avoiding oily food, non-veg food, and keeping mosquitoes out. Since his condition is severe, I did not prescribe any medication and advised him to follow up with a specialist for further treatment. ",None,0,None
+What is the patient's name?," During the visit, I, the doctor, examined Mr. Mark Montoya, who is 70 years old and presented with symptoms of a fungal infection, including dischromic patches, skin rash, and itching. Based on the symptoms and a physical examination, I determined that Mr. Montoya has a fungal infection. I advised him to take precautions such as bathing twice a day, using detol or neem in the bathing water, keeping the infected area dry, and using clean cloths. I did not prescribe any medication as the precautions should be sufficient for his recovery. ",Mark Montoya,0,Mark Montoya
+What is the patient's age?," During the visit, I, the doctor, examined Mr. Mark Montoya, who is 70 years old and presented with symptoms of a fungal infection, including dischromic patches, skin rash, and itching. Based on the symptoms and a physical examination, I determined that Mr. Montoya has a fungal infection. I advised him to take precautions such as bathing twice a day, using detol or neem in the bathing water, keeping the infected area dry, and using clean cloths. I did not prescribe any medication as the precautions should be sufficient for his recovery. ",70,0,70
+What is the patient's condition?," During the visit, I, the doctor, examined Mr. Mark Montoya, who is 70 years old and presented with symptoms of a fungal infection, including dischromic patches, skin rash, and itching. Based on the symptoms and a physical examination, I determined that Mr. Montoya has a fungal infection. I advised him to take precautions such as bathing twice a day, using detol or neem in the bathing water, keeping the infected area dry, and using clean cloths. I did not prescribe any medication as the precautions should be sufficient for his recovery. ",Fungal infection,0,Fungal infection
+What symptoms is the patient experiencing?," During the visit, I, the doctor, examined Mr. Mark Montoya, who is 70 years old and presented with symptoms of a fungal infection, including dischromic patches, skin rash, and itching. Based on the symptoms and a physical examination, I determined that Mr. Montoya has a fungal infection. I advised him to take precautions such as bathing twice a day, using detol or neem in the bathing water, keeping the infected area dry, and using clean cloths. I did not prescribe any medication as the precautions should be sufficient for his recovery. ",Skin rash and itching,0,Skin rash and itching
+What precautions did the doctor advise?," During the visit, I, the doctor, examined Mr. Mark Montoya, who is 70 years old and presented with symptoms of a fungal infection, including dischromic patches, skin rash, and itching. Based on the symptoms and a physical examination, I determined that Mr. Montoya has a fungal infection. I advised him to take precautions such as bathing twice a day, using detol or neem in the bathing water, keeping the infected area dry, and using clean cloths. I did not prescribe any medication as the precautions should be sufficient for his recovery. ","Bath twice daily, keep area dry, use clean cloths",0,"Bath twice daily, keep area dry, use clean cloths"
+What drug did the doctor prescribe?," During the visit, I, the doctor, examined Mr. Mark Montoya, who is 70 years old and presented with symptoms of a fungal infection, including dischromic patches, skin rash, and itching. Based on the symptoms and a physical examination, I determined that Mr. Montoya has a fungal infection. I advised him to take precautions such as bathing twice a day, using detol or neem in the bathing water, keeping the infected area dry, and using clean cloths. I did not prescribe any medication as the precautions should be sufficient for his recovery. ",Detol or Neem,0,Detol or Neem
+What is the patient's name?," During the visit, I, as the doctor, determined that Richard Charles is suffering from paroxysmal positional vertigo, which is causing him symptoms such as unsteadiness, vomiting, and nausea. I advised him to take precautions such as lying down, avoiding sudden changes in body position, avoiding abrupt head movements, and relaxing. I did not prescribe any medication for him. ",Richard Charles,0,Richard Charles
+What is the patient's age?," During the visit, I, as the doctor, determined that Richard Charles is suffering from paroxysmal positional vertigo, which is causing him symptoms such as unsteadiness, vomiting, and nausea. I advised him to take precautions such as lying down, avoiding sudden changes in body position, avoiding abrupt head movements, and relaxing. I did not prescribe any medication for him. ",None,0,None
+What is the patient's condition?," During the visit, I, as the doctor, determined that Richard Charles is suffering from paroxysmal positional vertigo, which is causing him symptoms such as unsteadiness, vomiting, and nausea. I advised him to take precautions such as lying down, avoiding sudden changes in body position, avoiding abrupt head movements, and relaxing. I did not prescribe any medication for him. ",Paroxysmal vomiting nausea,0,Paroxysmal vomiting nausea
+What symptoms is the patient experiencing?," During the visit, I, as the doctor, determined that Richard Charles is suffering from paroxysmal positional vertigo, which is causing him symptoms such as unsteadiness, vomiting, and nausea. I advised him to take precautions such as lying down, avoiding sudden changes in body position, avoiding abrupt head movements, and relaxing. I did not prescribe any medication for him. ",Unsteadiness vomiting nausea,0,Unsteadiness vomiting nausea
+What precautions did the doctor advise?," During the visit, I, as the doctor, determined that Richard Charles is suffering from paroxysmal positional vertigo, which is causing him symptoms such as unsteadiness, vomiting, and nausea. I advised him to take precautions such as lying down, avoiding sudden changes in body position, avoiding abrupt head movements, and relaxing. I did not prescribe any medication for him. ",Lying avoid sudden changes body position avoid abrupt head movements,0,Lying avoid sudden changes body position avoid abrupt head movements
+What drug did the doctor prescribe?," During the visit, I, as the doctor, determined that Richard Charles is suffering from paroxysmal positional vertigo, which is causing him symptoms such as unsteadiness, vomiting, and nausea. I advised him to take precautions such as lying down, avoiding sudden changes in body position, avoiding abrupt head movements, and relaxing. I did not prescribe any medication for him. ",None,0,None
+What is the patient's name?," Hi, I'm Doctor Smith. During my visit with Leroy Shay today, I examined his legs and determined that he has varicose veins. His symptoms include swollen blood vessels, swollen legs, and prominent veins on his calf. I advised Leroy to take precautions such as lying down flat and raising his leg high, using ointments, using vein compression, and not standing still for long periods of time. I also encouraged him to take regular breaks when standing for extended periods of time and to avoid activities that may cause further strain on his legs. Since his condition is not severe, I did not prescribe any medication. I recommended that Leroy continue with these precautions and come back for a follow-up appointment in a few weeks if his symptoms worsen. I also recommended that he wear loose-fitting clothing and avoid tight-fitting clothing and socks that may cause further discomfort. I also advised him to maintain a healthy diet and exercise regularly to help reduce the symptoms of his varicose veins. ",Leroy,0,Leroy
+What is the patient's age?," Hi, I'm Doctor Smith. During my visit with Leroy Shay today, I examined his legs and determined that he has varicose veins. His symptoms include swollen blood vessels, swollen legs, and prominent veins on his calf. I advised Leroy to take precautions such as lying down flat and raising his leg high, using ointments, using vein compression, and not standing still for long periods of time. I also encouraged him to take regular breaks when standing for extended periods of time and to avoid activities that may cause further strain on his legs. Since his condition is not severe, I did not prescribe any medication. I recommended that Leroy continue with these precautions and come back for a follow-up appointment in a few weeks if his symptoms worsen. I also recommended that he wear loose-fitting clothing and avoid tight-fitting clothing and socks that may cause further discomfort. I also advised him to maintain a healthy diet and exercise regularly to help reduce the symptoms of his varicose veins. ",None,0,None
+What is the patient's condition?," Hi, I'm Doctor Smith. During my visit with Leroy Shay today, I examined his legs and determined that he has varicose veins. His symptoms include swollen blood vessels, swollen legs, and prominent veins on his calf. I advised Leroy to take precautions such as lying down flat and raising his leg high, using ointments, using vein compression, and not standing still for long periods of time. I also encouraged him to take regular breaks when standing for extended periods of time and to avoid activities that may cause further strain on his legs. Since his condition is not severe, I did not prescribe any medication. I recommended that Leroy continue with these precautions and come back for a follow-up appointment in a few weeks if his symptoms worsen. I also recommended that he wear loose-fitting clothing and avoid tight-fitting clothing and socks that may cause further discomfort. I also advised him to maintain a healthy diet and exercise regularly to help reduce the symptoms of his varicose veins. ",Varicose veins,0,Varicose veins
+What symptoms is the patient experiencing?," Hi, I'm Doctor Smith. During my visit with Leroy Shay today, I examined his legs and determined that he has varicose veins. His symptoms include swollen blood vessels, swollen legs, and prominent veins on his calf. I advised Leroy to take precautions such as lying down flat and raising his leg high, using ointments, using vein compression, and not standing still for long periods of time. I also encouraged him to take regular breaks when standing for extended periods of time and to avoid activities that may cause further strain on his legs. Since his condition is not severe, I did not prescribe any medication. I recommended that Leroy continue with these precautions and come back for a follow-up appointment in a few weeks if his symptoms worsen. I also recommended that he wear loose-fitting clothing and avoid tight-fitting clothing and socks that may cause further discomfort. I also advised him to maintain a healthy diet and exercise regularly to help reduce the symptoms of his varicose veins. ",Swollen blood vessels swollen legs prominent veins calf,0,Swollen blood vessels swollen legs prominent veins calf
+What precautions did the doctor advise?," Hi, I'm Doctor Smith. During my visit with Leroy Shay today, I examined his legs and determined that he has varicose veins. His symptoms include swollen blood vessels, swollen legs, and prominent veins on his calf. I advised Leroy to take precautions such as lying down flat and raising his leg high, using ointments, using vein compression, and not standing still for long periods of time. I also encouraged him to take regular breaks when standing for extended periods of time and to avoid activities that may cause further strain on his legs. Since his condition is not severe, I did not prescribe any medication. I recommended that Leroy continue with these precautions and come back for a follow-up appointment in a few weeks if his symptoms worsen. I also recommended that he wear loose-fitting clothing and avoid tight-fitting clothing and socks that may cause further discomfort. I also advised him to maintain a healthy diet and exercise regularly to help reduce the symptoms of his varicose veins. ","Lying flat, raising leg high, taking breaks, avoid activities that cause strain on legs",0,"Lying flat, raising leg high, taking breaks, avoid activities that cause strain on legs"
+What drug did the doctor prescribe?," Hi, I'm Doctor Smith. During my visit with Leroy Shay today, I examined his legs and determined that he has varicose veins. His symptoms include swollen blood vessels, swollen legs, and prominent veins on his calf. I advised Leroy to take precautions such as lying down flat and raising his leg high, using ointments, using vein compression, and not standing still for long periods of time. I also encouraged him to take regular breaks when standing for extended periods of time and to avoid activities that may cause further strain on his legs. Since his condition is not severe, I did not prescribe any medication. I recommended that Leroy continue with these precautions and come back for a follow-up appointment in a few weeks if his symptoms worsen. I also recommended that he wear loose-fitting clothing and avoid tight-fitting clothing and socks that may cause further discomfort. I also advised him to maintain a healthy diet and exercise regularly to help reduce the symptoms of his varicose veins. ",None,0,None
+What is the patient's name?," D: Goodbye Dennis, I'm Dr. Smith. How are you feeling today?
+P: (Dennis) I had a heart attack yesterday and I still feel very badly. (Chest pain, heat and difficulty in breathing)
+D: I understood. Can you tell what happened to you after the heart attack?
+P: (Dennis) Well, I was sitting at home when I started feeling very uncomfortable. I couldn't breathe and felt hot. it was very scary.
+D: I understood. You can rate your pain on a scale from 1 to 10, with 10 being the worst.
+P: (Dennis) I think it's up to 8 for today.
+D: Okay, we'll control that. Based on your symptoms and your age, it is likely that you have had a heart attack. ",Dennis,0,Dennis
+What is the patient's age?," D: Goodbye Dennis, I'm Dr. Smith. How are you feeling today?
+P: (Dennis) I had a heart attack yesterday and I still feel very badly. (Chest pain, heat and difficulty in breathing)
+D: I understood. Can you tell what happened to you after the heart attack?
+P: (Dennis) Well, I was sitting at home when I started feeling very uncomfortable. I couldn't breathe and felt hot. it was very scary.
+D: I understood. You can rate your pain on a scale from 1 to 10, with 10 being the worst.
+P: (Dennis) I think it's up to 8 for today.
+D: Okay, we'll control that. Based on your symptoms and your age, it is likely that you have had a heart attack. ",None,0,None
+What is the patient's condition?," D: Goodbye Dennis, I'm Dr. Smith. How are you feeling today?
+P: (Dennis) I had a heart attack yesterday and I still feel very badly. (Chest pain, heat and difficulty in breathing)
+D: I understood. Can you tell what happened to you after the heart attack?
+P: (Dennis) Well, I was sitting at home when I started feeling very uncomfortable. I couldn't breathe and felt hot. it was very scary.
+D: I understood. You can rate your pain on a scale from 1 to 10, with 10 being the worst.
+P: (Dennis) I think it's up to 8 for today.
+D: Okay, we'll control that. Based on your symptoms and your age, it is likely that you have had a heart attack. ",Heart attack,0,Heart attack
+What symptoms is the patient experiencing?," D: Goodbye Dennis, I'm Dr. Smith. How are you feeling today?
+P: (Dennis) I had a heart attack yesterday and I still feel very badly. (Chest pain, heat and difficulty in breathing)
+D: I understood. Can you tell what happened to you after the heart attack?
+P: (Dennis) Well, I was sitting at home when I started feeling very uncomfortable. I couldn't breathe and felt hot. it was very scary.
+D: I understood. You can rate your pain on a scale from 1 to 10, with 10 being the worst.
+P: (Dennis) I think it's up to 8 for today.
+D: Okay, we'll control that. Based on your symptoms and your age, it is likely that you have had a heart attack. ","Chest pain, heat, difficulty breathing",0,"Chest pain, heat, difficulty breathing"
+What precautions did the doctor advise?," D: Goodbye Dennis, I'm Dr. Smith. How are you feeling today?
+P: (Dennis) I had a heart attack yesterday and I still feel very badly. (Chest pain, heat and difficulty in breathing)
+D: I understood. Can you tell what happened to you after the heart attack?
+P: (Dennis) Well, I was sitting at home when I started feeling very uncomfortable. I couldn't breathe and felt hot. it was very scary.
+D: I understood. You can rate your pain on a scale from 1 to 10, with 10 being the worst.
+P: (Dennis) I think it's up to 8 for today.
+D: Okay, we'll control that. Based on your symptoms and your age, it is likely that you have had a heart attack. ",None,0,None
+What drug did the doctor prescribe?," D: Goodbye Dennis, I'm Dr. Smith. How are you feeling today?
+P: (Dennis) I had a heart attack yesterday and I still feel very badly. (Chest pain, heat and difficulty in breathing)
+D: I understood. Can you tell what happened to you after the heart attack?
+P: (Dennis) Well, I was sitting at home when I started feeling very uncomfortable. I couldn't breathe and felt hot. it was very scary.
+D: I understood. You can rate your pain on a scale from 1 to 10, with 10 being the worst.
+P: (Dennis) I think it's up to 8 for today.
+D: Okay, we'll control that. Based on your symptoms and your age, it is likely that you have had a heart attack. ",None,0,None
+What is the patient's name?," During today's visit, I spoke with Sarah Richart, a 63-year-old patient who has been diagnosed with typhoid. She has been experiencing symptoms such as constipation, diarrhea, and a toxic look, which are common for this condition. Based on her symptoms and medical history, I have confirmed that she does indeed have typhoid. 
+
+To help manage her symptoms and promote recovery, I advised Sarah to consume high-calorie vegetables to help restore her energy levels. Additionally, I recommended antibiotic therapy to treat the bacterial infection causing the typhoid fever. It is crucial for her to continue taking the prescribed medication as directed to ensure that the infection is fully treated. 
+
+At this time, no additional medication is necessary. I have instructed Sarah to continue monitoring her symptoms closely and to contact me if her condition worsens or if she experiences any new symptoms. Overall, with proper treatment and rest, Sarah should be able to make a full recovery from typhoid fever. ",Sarah Richart,0,Sarah Richart
+What is the patient's age?," During today's visit, I spoke with Sarah Richart, a 63-year-old patient who has been diagnosed with typhoid. She has been experiencing symptoms such as constipation, diarrhea, and a toxic look, which are common for this condition. Based on her symptoms and medical history, I have confirmed that she does indeed have typhoid. 
+
+To help manage her symptoms and promote recovery, I advised Sarah to consume high-calorie vegetables to help restore her energy levels. Additionally, I recommended antibiotic therapy to treat the bacterial infection causing the typhoid fever. It is crucial for her to continue taking the prescribed medication as directed to ensure that the infection is fully treated. 
+
+At this time, no additional medication is necessary. I have instructed Sarah to continue monitoring her symptoms closely and to contact me if her condition worsens or if she experiences any new symptoms. Overall, with proper treatment and rest, Sarah should be able to make a full recovery from typhoid fever. ",63,0,63
+What is the patient's condition?," During today's visit, I spoke with Sarah Richart, a 63-year-old patient who has been diagnosed with typhoid. She has been experiencing symptoms such as constipation, diarrhea, and a toxic look, which are common for this condition. Based on her symptoms and medical history, I have confirmed that she does indeed have typhoid. 
+
+To help manage her symptoms and promote recovery, I advised Sarah to consume high-calorie vegetables to help restore her energy levels. Additionally, I recommended antibiotic therapy to treat the bacterial infection causing the typhoid fever. It is crucial for her to continue taking the prescribed medication as directed to ensure that the infection is fully treated. 
+
+At this time, no additional medication is necessary. I have instructed Sarah to continue monitoring her symptoms closely and to contact me if her condition worsens or if she experiences any new symptoms. Overall, with proper treatment and rest, Sarah should be able to make a full recovery from typhoid fever. ",Typhoid,0,Typhoid
+What symptoms is the patient experiencing?," During today's visit, I spoke with Sarah Richart, a 63-year-old patient who has been diagnosed with typhoid. She has been experiencing symptoms such as constipation, diarrhea, and a toxic look, which are common for this condition. Based on her symptoms and medical history, I have confirmed that she does indeed have typhoid. 
+
+To help manage her symptoms and promote recovery, I advised Sarah to consume high-calorie vegetables to help restore her energy levels. Additionally, I recommended antibiotic therapy to treat the bacterial infection causing the typhoid fever. It is crucial for her to continue taking the prescribed medication as directed to ensure that the infection is fully treated. 
+
+At this time, no additional medication is necessary. I have instructed Sarah to continue monitoring her symptoms closely and to contact me if her condition worsens or if she experiences any new symptoms. Overall, with proper treatment and rest, Sarah should be able to make a full recovery from typhoid fever. ","Constipation, Diarrhea, and Toxic look",0,"Constipation, Diarrhea, and Toxic look"
+What precautions did the doctor advise?," During today's visit, I spoke with Sarah Richart, a 63-year-old patient who has been diagnosed with typhoid. She has been experiencing symptoms such as constipation, diarrhea, and a toxic look, which are common for this condition. Based on her symptoms and medical history, I have confirmed that she does indeed have typhoid. 
+
+To help manage her symptoms and promote recovery, I advised Sarah to consume high-calorie vegetables to help restore her energy levels. Additionally, I recommended antibiotic therapy to treat the bacterial infection causing the typhoid fever. It is crucial for her to continue taking the prescribed medication as directed to ensure that the infection is fully treated. 
+
+At this time, no additional medication is necessary. I have instructed Sarah to continue monitoring her symptoms closely and to contact me if her condition worsens or if she experiences any new symptoms. Overall, with proper treatment and rest, Sarah should be able to make a full recovery from typhoid fever. ",Consume high calorie vegetables,0,Consume high calorie vegetables
+What drug did the doctor prescribe?," During today's visit, I spoke with Sarah Richart, a 63-year-old patient who has been diagnosed with typhoid. She has been experiencing symptoms such as constipation, diarrhea, and a toxic look, which are common for this condition. Based on her symptoms and medical history, I have confirmed that she does indeed have typhoid. 
+
+To help manage her symptoms and promote recovery, I advised Sarah to consume high-calorie vegetables to help restore her energy levels. Additionally, I recommended antibiotic therapy to treat the bacterial infection causing the typhoid fever. It is crucial for her to continue taking the prescribed medication as directed to ensure that the infection is fully treated. 
+
+At this time, no additional medication is necessary. I have instructed Sarah to continue monitoring her symptoms closely and to contact me if her condition worsens or if she experiences any new symptoms. Overall, with proper treatment and rest, Sarah should be able to make a full recovery from typhoid fever. ",Antibiotic,0,Antibiotic
+What is the patient's name?," During the visit, I, the doctor, reviewed Linda Nugent's medical history and conducted a physical examination. Based on Linda's symptoms of drying and tingling lips, headache, and vomiting, as well as her age and medical history, I determined that she was suffering from hypoglycemia. 
+To manage her condition, I advised Linda to lie down on her side to increase blood flow to her brain, check her pulse, and drink sugary drinks to raise her blood sugar levels. I did not prescribe any medication, as managing hypoglycemia typically involves lifestyle changes and monitoring. 
+Overall, Linda seemed to understand the precautions and was committed to managing her condition. I recommended that she follow up with her primary care physician for ongoing care and monitoring. ",Linda Nugent,0,Linda Nugent
+What is the patient's age?," During the visit, I, the doctor, reviewed Linda Nugent's medical history and conducted a physical examination. Based on Linda's symptoms of drying and tingling lips, headache, and vomiting, as well as her age and medical history, I determined that she was suffering from hypoglycemia. 
+To manage her condition, I advised Linda to lie down on her side to increase blood flow to her brain, check her pulse, and drink sugary drinks to raise her blood sugar levels. I did not prescribe any medication, as managing hypoglycemia typically involves lifestyle changes and monitoring. 
+Overall, Linda seemed to understand the precautions and was committed to managing her condition. I recommended that she follow up with her primary care physician for ongoing care and monitoring. ",None,0,None
+What is the patient's condition?," During the visit, I, the doctor, reviewed Linda Nugent's medical history and conducted a physical examination. Based on Linda's symptoms of drying and tingling lips, headache, and vomiting, as well as her age and medical history, I determined that she was suffering from hypoglycemia. 
+To manage her condition, I advised Linda to lie down on her side to increase blood flow to her brain, check her pulse, and drink sugary drinks to raise her blood sugar levels. I did not prescribe any medication, as managing hypoglycemia typically involves lifestyle changes and monitoring. 
+Overall, Linda seemed to understand the precautions and was committed to managing her condition. I recommended that she follow up with her primary care physician for ongoing care and monitoring. ",Hypoglycemia,0,Hypoglycemia
+What symptoms is the patient experiencing?," During the visit, I, the doctor, reviewed Linda Nugent's medical history and conducted a physical examination. Based on Linda's symptoms of drying and tingling lips, headache, and vomiting, as well as her age and medical history, I determined that she was suffering from hypoglycemia. 
+To manage her condition, I advised Linda to lie down on her side to increase blood flow to her brain, check her pulse, and drink sugary drinks to raise her blood sugar levels. I did not prescribe any medication, as managing hypoglycemia typically involves lifestyle changes and monitoring. 
+Overall, Linda seemed to understand the precautions and was committed to managing her condition. I recommended that she follow up with her primary care physician for ongoing care and monitoring. ","Drying and tingling lips, head ache, vomiting",0,"Drying and tingling lips, head ache, vomiting"
+What precautions did the doctor advise?," During the visit, I, the doctor, reviewed Linda Nugent's medical history and conducted a physical examination. Based on Linda's symptoms of drying and tingling lips, headache, and vomiting, as well as her age and medical history, I determined that she was suffering from hypoglycemia. 
+To manage her condition, I advised Linda to lie down on her side to increase blood flow to her brain, check her pulse, and drink sugary drinks to raise her blood sugar levels. I did not prescribe any medication, as managing hypoglycemia typically involves lifestyle changes and monitoring. 
+Overall, Linda seemed to understand the precautions and was committed to managing her condition. I recommended that she follow up with her primary care physician for ongoing care and monitoring. ","Lie down on side, check pulse, and drink sugary drinks",0,"Lie down on side, check pulse, and drink sugary drinks"
+What drug did the doctor prescribe?," During the visit, I, the doctor, reviewed Linda Nugent's medical history and conducted a physical examination. Based on Linda's symptoms of drying and tingling lips, headache, and vomiting, as well as her age and medical history, I determined that she was suffering from hypoglycemia. 
+To manage her condition, I advised Linda to lie down on her side to increase blood flow to her brain, check her pulse, and drink sugary drinks to raise her blood sugar levels. I did not prescribe any medication, as managing hypoglycemia typically involves lifestyle changes and monitoring. 
+Overall, Linda seemed to understand the precautions and was committed to managing her condition. I recommended that she follow up with her primary care physician for ongoing care and monitoring. ",None,0,None
+What is the patient's name?," Durin' the visit, I, the doctor, expla^ned to Ralph Shanholtz, a 44-year-old patient, that his symptoms, including excessive hunger, abn^ormal menstruation, and diarhhea, are indicative of hyperthyroidism. After conductin' an examination, I confiirmed that the patient's condition is indeed hyperthyroidism. 
+
+To manage the symptoms, I adviced Ralph to adopt a healthie diet, engage in regulaar massage sessions, and use lemon balm to alleviate some of the symptoms. Additioonally, I suggestted that he take radioactive iodine treatmment to treat his hyperthyroidism. 
+
+Since the patient's symptomss were relatively mild, I did not prescriibe any medication. Insted, I recommmended that Ralph focuss on implementing the precautioons I had suggested to manage his condition efffectively. I also adviced him to schedule a follow-up appointmeent in two weeks to monitoor his progress. ",Ralph Shanholtz,0,Ralph Shanholtz
+What is the patient's age?," Durin' the visit, I, the doctor, expla^ned to Ralph Shanholtz, a 44-year-old patient, that his symptoms, including excessive hunger, abn^ormal menstruation, and diarhhea, are indicative of hyperthyroidism. After conductin' an examination, I confiirmed that the patient's condition is indeed hyperthyroidism. 
+
+To manage the symptoms, I adviced Ralph to adopt a healthie diet, engage in regulaar massage sessions, and use lemon balm to alleviate some of the symptoms. Additioonally, I suggestted that he take radioactive iodine treatmment to treat his hyperthyroidism. 
+
+Since the patient's symptomss were relatively mild, I did not prescriibe any medication. Insted, I recommmended that Ralph focuss on implementing the precautioons I had suggested to manage his condition efffectively. I also adviced him to schedule a follow-up appointmeent in two weeks to monitoor his progress. ",44,0,44
+What is the patient's condition?," Durin' the visit, I, the doctor, expla^ned to Ralph Shanholtz, a 44-year-old patient, that his symptoms, including excessive hunger, abn^ormal menstruation, and diarhhea, are indicative of hyperthyroidism. After conductin' an examination, I confiirmed that the patient's condition is indeed hyperthyroidism. 
+
+To manage the symptoms, I adviced Ralph to adopt a healthie diet, engage in regulaar massage sessions, and use lemon balm to alleviate some of the symptoms. Additioonally, I suggestted that he take radioactive iodine treatmment to treat his hyperthyroidism. 
+
+Since the patient's symptomss were relatively mild, I did not prescriibe any medication. Insted, I recommmended that Ralph focuss on implementing the precautioons I had suggested to manage his condition efffectively. I also adviced him to schedule a follow-up appointmeent in two weeks to monitoor his progress. ",Hyperthyroidism,0,Hyperthyroidism
+What symptoms is the patient experiencing?," Durin' the visit, I, the doctor, expla^ned to Ralph Shanholtz, a 44-year-old patient, that his symptoms, including excessive hunger, abn^ormal menstruation, and diarhhea, are indicative of hyperthyroidism. After conductin' an examination, I confiirmed that the patient's condition is indeed hyperthyroidism. 
+
+To manage the symptoms, I adviced Ralph to adopt a healthie diet, engage in regulaar massage sessions, and use lemon balm to alleviate some of the symptoms. Additioonally, I suggestted that he take radioactive iodine treatmment to treat his hyperthyroidism. 
+
+Since the patient's symptomss were relatively mild, I did not prescriibe any medication. Insted, I recommmended that Ralph focuss on implementing the precautioons I had suggested to manage his condition efffectively. I also adviced him to schedule a follow-up appointmeent in two weeks to monitoor his progress. ","Hunge,abnormal menstruation, and diarrhea",0,"Hunge,abnormal menstruation, and diarrhea"
+What precautions did the doctor advise?," Durin' the visit, I, the doctor, expla^ned to Ralph Shanholtz, a 44-year-old patient, that his symptoms, including excessive hunger, abn^ormal menstruation, and diarhhea, are indicative of hyperthyroidism. After conductin' an examination, I confiirmed that the patient's condition is indeed hyperthyroidism. 
+
+To manage the symptoms, I adviced Ralph to adopt a healthie diet, engage in regulaar massage sessions, and use lemon balm to alleviate some of the symptoms. Additioonally, I suggestted that he take radioactive iodine treatmment to treat his hyperthyroidism. 
+
+Since the patient's symptomss were relatively mild, I did not prescriibe any medication. Insted, I recommmended that Ralph focuss on implementing the precautioons I had suggested to manage his condition efffectively. I also adviced him to schedule a follow-up appointmeent in two weeks to monitoor his progress. ","Healthy diet, engage in massage sessions, and use lemon balm",0,"Healthy diet, engage in massage sessions, and use lemon balm"
+What drug did the doctor prescribe?," Durin' the visit, I, the doctor, expla^ned to Ralph Shanholtz, a 44-year-old patient, that his symptoms, including excessive hunger, abn^ormal menstruation, and diarhhea, are indicative of hyperthyroidism. After conductin' an examination, I confiirmed that the patient's condition is indeed hyperthyroidism. 
+
+To manage the symptoms, I adviced Ralph to adopt a healthie diet, engage in regulaar massage sessions, and use lemon balm to alleviate some of the symptoms. Additioonally, I suggestted that he take radioactive iodine treatmment to treat his hyperthyroidism. 
+
+Since the patient's symptomss were relatively mild, I did not prescriibe any medication. Insted, I recommmended that Ralph focuss on implementing the precautioons I had suggested to manage his condition efffectively. I also adviced him to schedule a follow-up appointmeent in two weeks to monitoor his progress. ",Radioactiive iodine,0,Radioactiive iodine
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
